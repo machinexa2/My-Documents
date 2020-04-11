@@ -1,0 +1,15 @@
+[0009.43] Log: Log file open, 04/07/20 21:00:22
+[0009.43] DevMemory: Virtual  memory allocation size: 201.32 MByte (211101200 Bytes)
+[0009.43] DevMemory: Physical memory allocation size: 209.50 MByte (219672576 Bytes)
+[0089.64] DevMemory: Virtual  memory allocation size: 204.50 MByte (214435824 Bytes)
+[0089.64] DevMemory: Physical memory allocation size: 224.93 MByte (235859968 Bytes)
+[0118.11] Log: Float WorldDisplacementMultiplier set to 1.000000
+[0831.73] Log: WARNING: [guid level name:OW_A3_Ch9bc_Static_FAR] Guid 0003AC71000000000000000000000000 isn't loaded yet for cross level reference [StaticMeshComponent OW_A3_Ch9bc_Static_LOD.TheWorld:PersistentLevel.StaticMeshCollectionActor_77.StaticMeshActor_SMC_2:ReplacementPrimitive]
+[1566.80] DevMemory: Virtual  memory allocation size: 272.31 MByte (285541264 Bytes)
+[1566.80] DevMemory: Physical memory allocation size: 381.79 MByte (400334848 Bytes)
+[1662.24] DevMemory: Virtual  memory allocation size: 272.30 MByte (285527696 Bytes)
+[1662.24] DevMemory: Physical memory allocation size: 374.07 MByte (392245248 Bytes)
+[1692.74] DevMemory: Virtual  memory allocation size: 280.96 MByte (294609664 Bytes)
+[1692.74] DevMemory: Physical memory allocation size: 358.16 MByte (375562240 Bytes)
+[1699.76] Log: Closing by request
+[1701.63] Log: Log file closed, 04/07/20 21:28:34
