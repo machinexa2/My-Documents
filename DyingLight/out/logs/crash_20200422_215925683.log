@@ -1,0 +1,14 @@
+{21:59:25.685} INFO: [Game]   > System locale is 'En'
+{21:59:25.778} INFO: [Game]   > Speech locale is 'En'
+{21:59:26.523} INFO: [System] > Build version: 6.2015.0126.1708
+{21:59:26.967} INFO: [System] > [PID] 4848
+{21:59:27.656} INFO: [System] > [CPU] vendor: GenuineIntel, features: SSSE3 SSE4.1 SSE4.2 AVX CX16 POPCNT HTT, clock frequency: 2394.57MHz
+{21:59:27.943} INFO: [System] > [CPU] CPUs: 1, Cores: 2, HT: Yes, Logical processors: 4
+{21:59:28.242} INFO: [JobManager] > TM8e62aeca, dedicated worker threads: 1 + 2, num cpus: 4
+{21:59:28.909} INFO: [ODE]        > [ode::dInitialize] SSE path
+{21:59:47.616} INFO: [Renderer]   > [r_Initialize] Loaded from rd3d11_x64_rwdi.dll.
+{21:59:47.618} INFO: [Renderer]   > Enumerating D3D11 video adapters:
+{21:59:47.642} INFO: [Renderer]   > Adapter 1: Intel(R) HD Graphics 3000 0MB/1632MB/0MB
+{21:59:47.667} INFO: [Renderer]   |   Output 0: [0,0 - 1366,768] \\.\DISPLAY1
+{21:59:47.668} INFO: [Renderer]   > Adapter 2: Microsoft Basic Render Driver 0MB/2019MB/0MB
+{21:59:47.821} ERRR: [Renderer]   > [SRendererAPI::RCreateRenderer] Failed to create device.

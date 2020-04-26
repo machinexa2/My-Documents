@@ -1,0 +1,6 @@
+------------------------------------------------------------
+  Gamelog
+  Session Started: 2020.04.21 11:51:40
+------------------------------------------------------------
+[ 2020.04.21 12:04:42 ] (question) Switching character rendering modes while editing your character will cause you to lose your changes. Do you want to proceed and lose all changes?
+[ 2020.04.21 12:05:53 ] (question) Are you sure you want to log off?

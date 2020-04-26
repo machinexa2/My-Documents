@@ -1,0 +1,100 @@
+{22:16:03.895} INFO: [Game]   > System locale is 'En'
+{22:16:04.192} INFO: [Game]   > Speech locale is 'En'
+{22:16:04.598} INFO: [System] > Build version: 6.2015.0126.1708
+{22:16:04.645} INFO: [System] > [PID] 6524
+{22:16:07.145} INFO: [System] > [CPU] vendor: GenuineIntel, features: SSSE3 SSE4.1 SSE4.2 AVX CX16 POPCNT HTT, clock frequency: 2394.56MHz
+{22:16:07.192} INFO: [System] > [CPU] CPUs: 1, Cores: 2, HT: Yes, Logical processors: 4
+{22:16:08.942} INFO: [JobManager] > TM8d2b0df4, dedicated worker threads: 1 + 2, num cpus: 4
+{22:16:10.076} INFO: [ODE]        > [ode::dInitialize] SSE path
+{22:16:24.646} INFO: [Renderer]   > [r_Initialize] Loaded from rd3d11_x64_rwdi.dll.
+{22:16:24.647} INFO: [Renderer]   > Enumerating D3D11 video adapters:
+{22:16:24.728} INFO: [Renderer]   > Adapter 1: Microsoft Basic Render Driver 0MB/2019MB/0MB
+{22:16:24.729} INFO: [Renderer]   |   Output 0: [0,0 - 1366,768] \\.\DISPLAY1
+{22:16:24.770} INFO: [Renderer]   > Renderer started in DX11 mode.
+{22:16:24.857} INFO: [Renderer]   > Renderer: supported display modes:
+{22:16:24.877} INFO: [INFO]       > Texture streaming lowest priority distance set to 100m
+{22:16:24.953} INFO: [Renderer]   > WindowOffset 0 0
+{22:16:26.432} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:16:26.442} INFO: [INFO]       > CGame::AppWindowInit: window client area: 0x0, 1366x759
+{22:16:26.443} DEBG: [DXGI]       > [RChangeDeviceState] 1366x768, windowed, 0/0 Hz
+{22:16:26.445} DEBG: [DXGI]       >                  was 0x0, fullscreen, 0/0 Hz
+{22:16:26.536} INFO: [TexMgr]     > Max texture dimensions: 16384x16384x2048
+{22:16:26.687} INFO: [MatMgr]     > Number of supported techniques: 61
+{22:16:27.659} INFO: [MatMgr]     > Material pack 'optimized_dx11.mp' loaded.
+{22:16:27.898} INFO: [INFO]       > Texture streaming buffer set to 400MB
+{22:16:27.913} INFO: [INFO]       > >>>>> Audio init
+{22:16:28.398} INFO: [ResPack]    > Free resource loading disabled
+{22:16:39.038} INFO: [INFO]       > [Input] Keyboard 0 enumerated: intance_name = Keyboard, product_name = Keyboard, GUID = {6f1d2b61-d5a0-11cf-bfc7-444553540000}
+{22:16:39.041} INFO: [INFO]       > [CInput::SelectKeyboard] Keyboard 0 selected: Keyboard, Keyboard
+{22:16:39.219} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:16:39.226} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:16:39.229} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x768 windowed
+{22:16:39.231} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:16:39.985} INFO: [INFO]       > Bink filename: Intro_720p.bik
+{22:16:44.887} ERRR: [Parser]     > Param 0 in function EnableExplosionDamage() is not a bool
+{22:16:44.889} ERRR: [Parser]     > Param 0 in function EnableExplosionDamage() is not a bool
+{22:16:49.119} INFO: [INFO]       > Bink filename: nvidia_alienware_LQ.bik
+{22:17:00.972} INFO: [INFO]       > Bink filename: silence_video.bik
+{22:17:01.928} INFO: [INFO]       > Bink filename: Intro_LQ.bik
+{22:17:06.020} INFO: [MatMgr]     > Material pack 'optimized_DLC1_dx11.mp' loaded.
+{22:17:22.776} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:17:22.781} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:17:22.786} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:17:22.797} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:17:29.649} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:17:29.654} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:17:29.655} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:17:29.657} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:17:36.410} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:17:36.537} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:17:36.577} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:17:36.607} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:17:54.990} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:17:54.999} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:17:55.004} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:17:55.008} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:03.308} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:03.339} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:03.379} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:03.401} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:10.999} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:11.004} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:11.005} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:11.009} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:17.664} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:17.667} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:17.668} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:17.672} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:24.051} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:24.055} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:24.057} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:24.060} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:30.386} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:30.395} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:30.396} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:30.398} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:36.802} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:36.807} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:36.808} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:36.810} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:43.016} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:43.020} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:43.021} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:43.023} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:49.491} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:49.495} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:49.500} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:49.502} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:18:56.462} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:18:56.466} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:18:56.467} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:18:56.471} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:27:44.926} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:27:44.931} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:27:44.932} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:27:44.935} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:27:51.179} DEBG: [DXGI]       > WM_SIZE 0, 1366x759
+{22:27:51.185} DEBG: [DXGI]       > [RWinOnWmSize] requested 1366x759
+{22:27:51.187} DEBG: [DXGI]       > [RWinOnWmSize] swapchain was 1366x759 windowed
+{22:27:51.189} DEBG: [DXGI]       > [RWinOnWmSize] swapchain changed to 1366x759 windowed
+{22:29:26.907} INFO: [INFO]       > Bink filename: Landing.bik
