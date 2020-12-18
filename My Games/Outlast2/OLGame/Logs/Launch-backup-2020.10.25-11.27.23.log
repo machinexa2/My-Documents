@@ -1,0 +1,305 @@
+Log: Log file open, 10/25/20 00:03:55
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+Init: Version: 17495
+Init: Compiled (64-bit - Shipping): Apr 24 2017 13:31:34
+Init: Changelist: 67764
+Init: Command line: 
+Init: Base directory: D:\Games\Outlast 2\Binaries\Win64\
+Init: Executable: Outlast2
+[0003.81] Init: Computer: SUNRAIT-PC
+[0003.83] Init: User: Sunrait
+[0003.83] Init: CPU Page size=4096, Processors=4
+[0003.83] Init: High frequency timer resolution =10.000000 MHz
+[0003.83] Init: Memory total: Physical=3.9GB (4GB approx) Pagefile=6.0GB Virtual=131072.0GB
+[0003.83] Log: Steam Client API initialized 1
+[0003.83] Log: Steam Game Server API initialized 1
+[0003.83] Init: Presizing for 128000 objects not considered by GC, pre-allocating 18874368 bytes.
+[0003.83] Init: Object subsystem initialized
+[0003.84] Log: CachePaths() took 0.01 Seconds
+[0003.97] Log: Found D3D11 adapter 0: Intel(R) HD Graphics 3000
+[0003.97] Log: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory
+[0003.99] Log: Shader platform (RHI): PC-D3D-SM4
+[0004.23] Log: PhysX GPU Support: DISABLED
+[0005.14] Log: [FSocketWin::Bind] Binding to 0.0.0.0:9989
+[0016.62] DevPhysics: ApexManager: Unable to load legacy Framework module; loading Apex 1.0 assets may fail.
+[0016.62] DevPhysics: ApexManager: Unable to load legacy clothing module; loading old clothing assets may fail.
+[0016.62] DevPhysics: ApexManager: Unable to load legacy Destructible module; loading old Destructible assets may fail.
+[0026.06] Log: 86818 objects as part of root set at end of initial load.
+[0026.06] Log: 17901332 out of 18874368 bytes used by permanent object pool.
+[0026.06] Log: Initializing Engine...
+[0026.33] Log: Wwise(R) SDK Version 2016.1.1 Build 5823. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0051.57] Log: Startup: Using system settings resolution 0 x 0 (Fullscreen: yes)
+[0051.59] Log: Startup: Resolution 0 x 0 (Fullscreen: yes) is invalid.
+[0051.59] Log: Startup: Defaulting to primary display resolution 1366 x 768 (Fullscreen: yes).
+[0124.97] Log: Initializing Steamworks
+[0124.98] Log: Logged in as 'CODEX'
+[0127.28] Log: LoadMap: Intro_persistent?Name=Player?Team=255
+[0127.57] Log: Game class is 'OLGame'
+[0127.61] Log: Primary PhysX scene will be in software.
+[0127.63] Log: Creating Primary PhysX Scene.
+[0127.93] Log: Bringing World Intro_Persistent.TheWorld up for play (0) at 2020.10.25-00.05.59
+[0128.11] Log: Bringing up level for play took: 0.527906
+[0128.19] Log: ### UOLProfileSettings::SetToDefaults()
+[0128.30] Log: ApplySystemSettings
+[0128.32] Log: ### Applying resolution 1366 x 768 (Fullscreen: yes)
+[0129.10] Error: Can't start an online game that hasn't been created
+[0130.32] Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[0130.32] Log: ########### Finished loading level: 3.041567 seconds
+[0130.39] Log: Flushing async loaders.
+[0130.51] Log: Flushed async loaders.
+[0130.51] Log: Initializing Engine Completed
+[0148.43] Log: >>>>>>>>>>>>>> Initial startup: 148.43s <<<<<<<<<<<<<<<
+[0148.84] Log: ApplySystemSettings
+[0148.84] Log: ### Applying resolution 1366 x 768 (Fullscreen: yes)
+[0151.56] Log:  -- x_checkpoints >> Becoming visible
+[0154.89] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[0154.89] Log: COOKEDPHYSICS: BSP 0.00 KB
+[0155.04] Log:  -- mainmenubackground >> Becoming visible
+[0155.84] Log: ### UpdateProfileFromSystemSettings - Current resolution is 1366 x 768, fullscreen: yes-exclusive
+[0191.28] ScriptWarning: Accessed None 'ControlsList'
+	OLUIFrontEnd_Options Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_0.OLUIFrontEnd_Options_0
+	Function OLGame.OLUIFrontEnd_Options:OnDiscardChanges:0114
+[0191.28] ScriptWarning: Accessed None 'ControlsList'
+	OLUIFrontEnd_Options Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_0.OLUIFrontEnd_Options_0
+	Function OLGame.OLUIFrontEnd_Options:OnDiscardChanges:0141
+[0193.19] Log: ApplySystemSettings
+[0193.19] Log: ### Applying resolution 1366 x 768 (Fullscreen: yes)
+[0195.52] Log: New master gamestate list found.
+[0206.92] Log: --- SAVING CHECKPOINT "None" ---
+[0206.92] Log: SaveDataToBuffer - ignored (invalid checkpoint name)
+[0206.92] Warning: SerializeRawCheckpointRecord: failed to serialize header. corrupted?
+[0206.92] Log: ## Start new game at checkpoint: CP_Start (from start: Yes)
+[0206.93] DevGameState: Resetting GameState
+[0206.95] Log: --- LOADING MOVIE START ---
+[0207.24] Log: --- SAVING CHECKPOINT "CP_Start" ---
+[0207.38] Log: Flushing async loaders.
+[0207.49] Log: Flushed async loaders.
+[0208.23] Log:  -- HelicopterCrash_Persistent >> Becoming visible
+[0208.24] Log:  -- x_checkpoints >> Becoming visible
+[0208.25] Log: ## CommitMapChange took 758.9ms
+[0208.25] Log: Committed map change via OLWinEngine Transient.OLWinEngine_0
+[0211.05] Log: Flushing async loaders.
+[0212.42] Log: No animation data exists for sequence None (AnimSet helicoptercrash_se.TheWorld:PersistentLevel.Main_Sequence.InterpData_1.InterpGroupAI_0.InterpTrackNotify_0.AnimSet_0)
+[0212.42] Log: No animation data exists for sequence None (AnimSet helicoptercrash_se.TheWorld:PersistentLevel.Main_Sequence.InterpData_2.InterpGroupAI_4.InterpTrackNotify_1.AnimSet_1)
+[0215.20] Log: Flushed async loaders.
+[0215.46] Log:  -- helicoptercrash_se >> Becoming visible
+[0215.53] Log:  -- helicoptercrash-02_art >> Becoming visible
+[0221.41] Log: --- Travel complete
+[0222.06] Log: #### -- Preloading title.ol2 - success: 1
+[0225.61] DevGameState: GS - AutoActivateGameStates for checkpoint CP_Start
+[0225.65] Log: --- LOADING MOVIE TIME: 18.6 sec ---
+[0225.68] Log: ## PREPARE MAP TRANSITION [Crash_Persistent] - Loading
+[0225.71] Log:  >> Adding to world list and preloading: school-00_art_ld
+[0225.71] Log:  >> Adding to world list and preloading: crash-01_art
+[0225.71] Log:  >> Adding to world list and preloading: crash-01_snd
+[0225.71] Log:  >> Adding to world list and preloading: crash-01a_art
+[0225.71] Log:  >> Adding to world list and preloading: crash-01b_art
+[0225.71] Log:  >> Adding to world list and preloading: crash-01c_art
+[0225.71] Log:  >> Adding to world list and preloading: crash_bg-01_art
+[0225.71] Log:  >> Adding to world list and preloading: crash_bg-04_art
+[0225.71] Log:  >> Adding to world list and preloading: crash-01_ld
+[0225.71] Log:  >> Adding to world list and preloading: crash-01_se
+[0225.71] Log:  >> Adding to world list and preloading: crash_lscape-00
+[0225.71] Log:  >> Adding to world list and preloading: crash_bg-02_art
+[0226.92] Log:  >> HelicopterCrash_Persistent --> Marked for unload and remove on commit
+[0226.92] Log:  >> helicoptercrash_se --> Marked for unload and remove on commit
+[0226.92] Log:  >> helicoptercrash-02_art --> Marked for unload and remove on commit
+[0242.34] Log: Subtitle for event VO_CIN_SEDreamSeq_basement exceeded max lifetime (5.0 s)! Popping.
+[0251.36] Log: Subtitle for event VO_CIN_SEDreamSeq_basement exceeded max lifetime (5.5 s)! Popping.
+[0317.48] Log: No animation data exists for sequence None (AnimSet crash-01_se.TheWorld:PersistentLevel.Main_Sequence.InterpData_0.InterpGroupAI_0.InterpTrackNotify_0.AnimSet_0)
+[0317.48] Log: No animation data exists for sequence None (AnimSet crash-01_se.TheWorld:PersistentLevel.Main_Sequence.InterpData_4.InterpGroupAI_0.InterpTrackNotify_2.AnimSet_0)
+[0325.26] Warning: Skipping instancing group - an Actor may only be connected to one Group! [OLPlayerController_0]
+[0334.17] Log: Prepare Map Transition: Preloading DONE
+[0334.19] Log: KISMET: Remote event PM_Visibility_Crash activated for 1 recipients
+[0334.30] Log: ## PREPARE MAP TRANSITION [Crash_Persistent] - Visibility
+[0334.30] Log:  >> x_checkpoints --> Making Visible
+[0334.30] Log:  >> school-00_art_ld --> Making Visible
+[0334.30] Log: ## PREPARE MAP TRANSITION [Crash_Persistent] - Ensure Req Vis
+[0334.30] Log:  >> school-00_art_ld --> Activating High Priority Visibility
+[0334.30] Log: Prepare Map Transition: Locking streaming
+[0334.31] Log: High Priority Visibility for level: school-00_art_ld
+[0335.03] Log:  -- school-00_art_ld >> Becoming visible
+[0335.33] Log: Prepare Map Transition: Visibility DONE
+[0336.62] Log: Prepare Map Transition (Crash_Persistent): Deactivating - nothing to do
+[0437.62] Log: KISMET: Remote event RE_SchoolDream activated for 4 recipients
+[0437.62] Log: KISMET: Remote event FM_Crash activated for 1 recipients
+[0437.64] Log: ### -- Opening title movie with preloaded buffer
+[0437.84] Log: # Checkpoint Reached: CP_Chopper
+[0437.84] DevGameState: GS - AutoActivateGameStates for checkpoint CP_Chopper
+[0437.84] Log: Prepare Map Transition: Start unloading all unrequired levels
+[0437.84] Log:  >> Unloading prior to commit: helicoptercrash_se (65 actors, 65/1500)
+[0437.84] Log:  >> Unloading prior to commit: helicoptercrash-02_art (1167 actors, 1232/1500)
+[0438.06] Log: --- SAVING CHECKPOINT "CP_Chopper" ---
+[0439.37] Log: Prepare Map Transition: Unloading DONE
+[0439.37] Log: Finish Map Transition (forced): Commit map change
+[0439.38] Log: ## COMMIT SEAMLESS MAP TRANSITION
+[0439.38] Log:  # Remove unwanted levels and fixup orphan streaming objects...
+[0439.41] Log:  >> HelicopterCrash_Persistent --> Requesting unload and removal
+[0439.41] Log:  >> x_checkpoints --> Transferring streaming object (loaded: Yes, visible: Yes) - was owned by previous persistent
+[0439.41] Log:  >> helicoptercrash_se --> Requesting unload and removal
+[0439.41] Log:  >> helicoptercrash-02_art --> Requesting unload and removal
+[0439.41] Log:  >> RemoveUnwantedLevelsForSeamlessMapChange took 29.2ms
+[0439.41] Log:  # Adding new levels...
+[0439.41] Log:  >> x_checkpoints --> (already transferred - loaded: Yes, visible: Yes)
+[0439.41] Log:  >> crash-01_art --> Transferring loaded level (not visible)
+[0439.41] Log:  >> crash-01a_art --> Transferring loaded level (not visible)
+[0439.41] Log:  >> crash-01b_art --> Transferring loaded level (not visible)
+[0439.41] Log:  >> crash-01c_art --> Transferring loaded level (not visible)
+[0439.41] Log:  >> crash-02_art --> Adding
+[0439.41] Log:  >> crash-02a_art --> Adding
+[0439.41] Log:  >> crash-02b_art --> Adding
+[0439.45] Log:  >> crash-02c_art --> Adding
+[0439.45] Log:  >> crash-02d_art --> Adding
+[0439.45] Log:  >> crash-02e_art --> Adding
+[0439.45] Log:  >> crash-02f_art --> Adding
+[0439.45] Log:  >> crash-02g_art --> Adding
+[0439.45] Log:  >> crash-03_art --> Adding
+[0439.45] Log:  >> crash-03a_art --> Adding
+[0439.45] Log:  >> crash-03b_art --> Adding
+[0439.45] Log:  >> crash-03c_art --> Adding
+[0439.45] Log:  >> crash-03d_art --> Adding
+[0439.45] Log:  >> crash-03e_art --> Adding
+[0439.45] Log:  >> crash-04_art --> Adding
+[0439.45] Log:  >> crash-04a_art --> Adding
+[0439.45] Log:  >> crash-04b_art --> Adding
+[0439.45] Log:  >> crash-05_art --> Adding
+[0439.45] Log:  >> crash-05a_art --> Adding
+[0439.45] Log:  >> crash-05b_art --> Adding
+[0439.45] Log:  >> crash-05c_art --> Adding
+[0439.45] Log:  >> crash_bg-01_art --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash_bg-02_art --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash_bg-03_art --> Adding
+[0439.45] Log:  >> crash_bg-04_art --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash_bg-05_art --> Adding
+[0439.45] Log:  >> crash-01_ld --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash-02_ld --> Adding
+[0439.45] Log:  >> crash-03_ld --> Adding
+[0439.45] Log:  >> crash-04_ld --> Adding
+[0439.45] Log:  >> crash-05_ld --> Adding
+[0439.45] Log:  >> crash-01_se --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash-02_se --> Adding
+[0439.45] Log:  >> crash-03_se --> Adding
+[0439.45] Log:  >> crash-04_se --> Adding
+[0439.45] Log:  >> crash-05_se --> Adding
+[0439.45] Log:  >> crash_lscape-00 --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash_lscape-01 --> Adding
+[0439.45] Log:  >> crash_lscape-01a --> Adding
+[0439.45] Log:  >> crash_lscape-01b --> Adding
+[0439.45] Log:  >> crash_lscape-01c --> Adding
+[0439.45] Log:  >> crash_lscape-02 --> Adding
+[0439.45] Log:  >> crash_lscape-03 --> Adding
+[0439.45] Log:  >> crash_lscape_water-02 --> Adding
+[0439.45] Log:  >> crash-01_snd --> Transferring loaded level (not visible)
+[0439.45] Log:  >> crash-02_snd --> Adding
+[0439.45] Log:  >> crash-03_snd --> Adding
+[0439.45] Log:  >> crash-04_snd --> Adding
+[0439.45] Log:  >> crash-05_snd --> Adding
+[0439.45] Log:  >> school-00_art_ld --> Transferring loaded level (visible)
+[0439.45] Log:  # Validating list integrity...
+[0439.45] Log:  >> x_checkpoints - Always loaded
+[0439.45] Log:  >> school-00_art_ld - ok
+[0439.45] Log:  >> crash-01_art - ok
+[0439.45] Log:  >> crash-01_snd - ok
+[0439.45] Log:  >> crash-01a_art - ok
+[0439.45] Log:  >> crash-01b_art - ok
+[0439.45] Log:  >> crash-01c_art - ok
+[0439.45] Log:  >> crash_bg-01_art - ok
+[0439.45] Log:  >> crash_bg-04_art - ok
+[0439.45] Log:  >> crash-01_ld - ok
+[0439.45] Log:  >> crash-01_se - ok
+[0439.45] Log:  >> crash_lscape-00 - ok
+[0439.45] Log:  >> crash_bg-02_art - ok
+[0439.45] Log:  >> Crash_Persistent - Persistent
+[0439.45] Log:  >> crash-02_art - ok
+[0439.45] Log:  >> crash-02a_art - ok
+[0439.45] Log:  >> crash-02b_art - ok
+[0439.45] Log:  >> crash-02c_art - ok
+[0439.45] Log:  >> crash-02d_art - ok
+[0439.45] Log:  >> crash-02e_art - ok
+[0439.45] Log:  >> crash-02f_art - ok
+[0439.45] Log:  >> crash-02g_art - ok
+[0439.45] Log:  >> crash-03_art - ok
+[0439.45] Log:  >> crash-03a_art - ok
+[0439.45] Log:  >> crash-03b_art - ok
+[0439.45] Log:  >> crash-03c_art - ok
+[0439.45] Log:  >> crash-03d_art - ok
+[0439.45] Log:  >> crash-03e_art - ok
+[0439.45] Log:  >> crash-04_art - ok
+[0439.45] Log:  >> crash-04a_art - ok
+[0439.45] Log:  >> crash-04b_art - ok
+[0439.45] Log:  >> crash-05_art - ok
+[0439.45] Log:  >> crash-05a_art - ok
+[0439.45] Log:  >> crash-05b_art - ok
+[0439.45] Log:  >> crash-05c_art - ok
+[0439.45] Log:  >> crash_bg-03_art - ok
+[0439.45] Log:  >> crash_bg-05_art - ok
+[0439.45] Log:  >> crash-02_ld - ok
+[0439.45] Log:  >> crash-03_ld - ok
+[0439.45] Log:  >> crash-04_ld - ok
+[0439.45] Log:  >> crash-05_ld - ok
+[0439.45] Log:  >> crash-02_se - ok
+[0439.45] Log:  >> crash-03_se - ok
+[0439.45] Log:  >> crash-04_se - ok
+[0439.45] Log:  >> crash-05_se - ok
+[0439.45] Log:  >> crash_lscape-01 - ok
+[0439.45] Log:  >> crash_lscape-01a - ok
+[0439.45] Log:  >> crash_lscape-01b - ok
+[0439.45] Log:  >> crash_lscape-01c - ok
+[0439.45] Log:  >> crash_lscape-02 - ok
+[0439.45] Log:  >> crash_lscape-03 - ok
+[0439.45] Log:  >> crash_lscape_water-02 - ok
+[0439.45] Log:  >> crash-02_snd - ok
+[0439.45] Log:  >> crash-03_snd - ok
+[0439.45] Log:  >> crash-04_snd - ok
+[0439.45] Log:  >> crash-05_snd - ok
+[0439.58] Log:  -- Crash_Persistent >> Becoming visible
+[0439.58] Log: ## CommitMapChange took 200.2ms
+[0439.58] Log: Committed map change via OLWinEngine Transient.OLWinEngine_0
+[0439.58] Log: Prepare Map Transition (Crash_Persistent): Deactivating - nothing to do
+[0439.58] Log: Finish Map Transition: Done - change has been committed
+[0443.39] Log:  -- crash-01_art >> Becoming visible
+[0443.94] Log:  -- crash-01_snd >> Becoming visible
+[0444.16] Log:  -- crash-01a_art >> Becoming visible
+[0445.74] Log:  -- crash-01b_art >> Becoming visible
+[0445.88] Log:  -- crash-01_ld >> Becoming visible
+[0445.88] Log:  -- crash-01_se >> Becoming visible
+[0445.92] Log:  -- crash_lscape-00 >> Becoming visible
+[0513.16] Log: UOLSeqAct_AIDestroy: destroying OLEnemyGeneric_0 (OLBot_0)
+[0526.65] Log: KISMET: Remote event StreamTexturesCrashWakeUp activated for 1 recipients
+[0537.72] Log: PlayCustomBlend player_hit_backward, CustomChildIndex: 1 => Animation Not Found
+[0537.72] Log: PlayCustomBlend player_hit_backward, CustomChildIndex: 1 => Animation Not Found
+[0542.55] Log: KISMET: Remote event StreamTexturesCrashWakeUp activated for 1 recipients
+[0547.28] Log: KISMET: Remote event Jessgo activated for 1 recipients
+[0547.47] Log: KISMET: Remote event RE_teleportCrashSite activated for 1 recipients
+[0547.47] Log: UOLSeqAct_AIDestroy: killing everyone (1 bots)
+[0547.47] Log: UOLSeqAct_AIDestroy: destroying OLPawnJessica_0 (OLBot_1)
+[0547.65] Log: KISMET: Remote event killFogDream activated for 1 recipients
+[0547.65] Log: KISMET: Remote event RE_CrashSiteWakeUp activated for 1 recipients
+[0547.66] Log: # Checkpoint Reached: CP_Crash_CrashSiteWakeUp
+[0547.66] DevGameState: GS - AutoActivateGameStates for checkpoint CP_Crash_CrashSiteWakeUp
+[0547.66] Log: KISMET: Remote event BlakeAwake activated for 0 recipients
+[0547.66] Warning: SeqAct_ActivateRemoteEvent crash-01_ld.TheWorld:PersistentLevel.Main_Sequence.SeqAct_ActivateRemoteEvent_1 failed to find target event: BlakeAwake
+[0547.66] Warning: SeqAct_ActivateRemoteEvent crash-01_ld.TheWorld:PersistentLevel.Main_Sequence.SeqAct_ActivateRemoteEvent_1 failed to find target event: BlakeAwake
+[0548.02] Log: --- SAVING CHECKPOINT "CP_Crash_CrashSiteWakeUp" ---
+[0548.21] Log:  -- crash-01c_art >> Becoming visible
+[0548.58] Log:  -- crash_bg-01_art >> Becoming visible
+[0549.03] Log:  -- crash_bg-04_art >> Becoming visible
+[0550.96] Log:  -- crash_bg-02_art >> Becoming visible
+[0570.83] Log: Flushing async loaders.
+[0571.25] Log: Flushed async loaders.
+[0571.34] Log: ### UpdateProfileFromSystemSettings - Current resolution is 1366 x 768, fullscreen: yes-exclusive
+[0593.09] Log: KISMET: Remote event RE_CrashAwake activated for 1 recipients
+[0593.19] Log: # Checkpoint Reached: CP_Crash_CrashSiteToChopper
+[0593.19] DevGameState: GS - AutoActivateGameStates for checkpoint CP_Crash_CrashSiteToChopper
+[0593.28] Log: *** WARNING! Failed to unload bank asynchronously.
+[0593.28] Log: --- SAVING CHECKPOINT "CP_Crash_CrashSiteToChopper" ---
+[0596.24] Log: KISMET: Remote event Tuto_Objectives activated for 1 recipients
+[0601.43] Log: [OLHero_1] Special move started: SMT_FallingDeath
+[0606.00] Log: ### UpdateProfileFromSystemSettings - Current resolution is 1366 x 768, fullscreen: yes-exclusive
+[0606.17] Log: Flushing async loaders.
+[0612.13] Log: Flushed async loaders.
+[0617.11] DevGameState: GS - OnPlayerDeath
+[0617.11] DevGameState:  Reloading saved game states
+[0617.11] Log: ## RestoreWorldState(

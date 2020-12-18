@@ -1,0 +1,33 @@
+Log: Log file open, 10/25/20 11:27:53
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+Init: Version: 17495
+Init: Compiled (64-bit - Shipping): Apr 24 2017 13:31:34
+Init: Changelist: 67764
+Init: Command line: 
+Init: Base directory: D:\Games\Outlast 2\Binaries\Win64\
+Init: Executable: Outlast2
+[0000.23] Init: Computer: SUNRAIT-PC
+[0000.23] Init: User: Sunrait
+[0000.23] Init: CPU Page size=4096, Processors=4
+[0000.23] Init: High frequency timer resolution =10.000000 MHz
+[0000.23] Init: Memory total: Physical=3.9GB (4GB approx) Pagefile=5.1GB Virtual=131072.0GB
+[0000.23] Log: Steam Client API initialized 1
+[0000.23] Log: Steam Game Server API initialized 1
+[0000.23] Init: Presizing for 128000 objects not considered by GC, pre-allocating 18874368 bytes.
+[0000.23] Init: Object subsystem initialized
+[0000.24] Log: CachePaths() took 0.01 Seconds
+[0000.26] Log: Found D3D11 adapter 0: Intel(R) HD Graphics 3000
+[0000.26] Log: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1632MB of shared system memory
+[0000.26] Log: Shader platform (RHI): PC-D3D-SM4
+[0000.28] Log: PhysX GPU Support: DISABLED
+[0000.29] Log: [FSocketWin::Bind] Binding to 0.0.0.0:9989
+[0000.98] DevPhysics: ApexManager: Unable to load legacy Framework module; loading Apex 1.0 assets may fail.
+[0000.98] DevPhysics: ApexManager: Unable to load legacy clothing module; loading old clothing assets may fail.
+[0000.98] DevPhysics: ApexManager: Unable to load legacy Destructible module; loading old Destructible assets may fail.
+[0009.22] Log: 86818 objects as part of root set at end of initial load.
+[0009.22] Log: 17901332 out of 18874368 bytes used by permanent object pool.
+[0009.22] Log: Initializing Engine...
+[0009.46] Log: Wwise(R) SDK Version 2016.1.1 Build 5823. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0019.20] Log: Startup: Using system settings resolution 1366 x 768 (Fullscreen: yes)

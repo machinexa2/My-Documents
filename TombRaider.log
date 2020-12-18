@@ -1,0 +1,402 @@
+12:39:37:267 (1216) > --- NIXXES log start ---
+12:39:37:572 (1216) > 
+12:39:37:634 (1216) > Memory statistics:
+12:39:37:658 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:39:37:674 (1216) >   Avail RAM = 2.2 GB (2269 MB)
+12:39:37:721 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:39:37:759 (1216) >   Avail virtual memory = 3.4 GB (3461 MB)
+12:39:37:790 (1216) > OS = Windows 8 (build 9200)
+12:39:37:852 (1216) > Starting Tomb Raider v1.00.718.4
+12:39:37:937 (1216) > [Main] Current directory: F:\
+12:39:38:813 (1216) > Mounted TITLE.000
+12:39:38:913 (1216) > Mounted PATCH.000
+12:39:39:082 (1216) > [Render] PCDeviceManager constructor start
+12:39:39:167 (1216) > [Render] PCDeviceManager constructor end
+12:39:39:229 (1216) > [Render] PCDX11DeviceManager constructor start
+12:39:39:245 (1216) > D3D Adapter Information:
+12:39:39:298 (1216) > Adapter Description: Intel(R) HD Graphics 3000
+12:39:39:345 (1216) > VendorID: 8086
+12:39:39:369 (1216) > DeviceID: 116
+12:39:39:401 (1216) > Revision: 9
+12:39:39:416 (1216) > Reducing mouse lag by setting frame latency to 1...
+12:39:39:447 (1216) > D3D reports feature level 11 is _not_ supported. Feature level: a000
+12:39:39:479 (1216) > D3D reports hardware supports RGBA16UNORM blending.
+12:39:39:526 (1216) > D3D Adapter Information:
+12:39:39:588 (1216) > Adapter Description: Microsoft Basic Render Driver
+12:39:39:619 (1216) > VendorID: 1414
+12:39:39:651 (1216) > DeviceID: 8c
+12:39:39:666 (1216) > Revision: 0
+12:39:39:713 (1216) > Reducing mouse lag by setting frame latency to 1...
+12:39:39:760 (1216) > D3D reports feature level 11 is supported.
+12:39:39:791 (1216) > D3D reports hardware multiple command list support.
+12:39:39:823 (1216) > [Render] Adapter M has no outputs!
+12:39:39:869 (1216) > [Render] PCDX11DeviceManager constructor end
+12:39:48:447 (1216) > CPU count: logical = 4, cores = 2, physical = 1
+12:39:48:650 (1216) > D3D Adapter Information:
+12:39:48:713 (1216) > Adapter Description: Intel(R) HD Graphics 3000
+12:39:48:744 (1216) > VendorID: 8086
+12:39:48:775 (1216) > DeviceID: 116
+12:39:48:807 (1216) > Revision: 9
+12:39:48:853 (1216) > Reducing mouse lag by setting frame latency to 1...
+12:39:48:869 (1216) > D3D reports feature level 11 is _not_ supported. Feature level: a000
+12:39:48:916 (1216) > D3D reports hardware supports RGBA16UNORM blending.
+12:39:49:713 (1216) > [Render] Using DirectX 11
+12:39:50:228 (1216) > Initalizing audio...
+12:39:50:760 (1216) > Audio device found. FMOD reports 1 driver(s).
+12:39:50:822 (1216) > Audio Driver Name: Speakers (Conexant SmartAudio HD)
+12:39:50:853 (1216) > Speaker Mode: 2
+12:40:00:988 (1216) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+12:40:01:038 (1216) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+12:40:01:058 (1216) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+12:40:01:078 (1216) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+12:40:01:098 (1216) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+12:40:01:123 (1216) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+12:40:01:158 (1216) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+12:40:01:178 (1216) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+12:40:01:218 (1216) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+12:40:01:258 (1216) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+12:40:01:288 (1216) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+12:40:01:368 (1216) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+12:40:01:413 (1216) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+12:40:01:453 (1216) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+12:40:01:478 (1216) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+12:40:01:523 (1216) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+12:40:01:548 (1216) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+12:40:01:598 (1216) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+12:40:01:618 (1216) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+12:40:01:658 (1216) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+12:40:01:888 (1216) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+12:40:01:928 (1216) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+12:40:54:472 (1216) > cdc::InitHairData(1): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=773376)
+12:40:54:593 (1216) > Memory statistics:
+12:40:54:622 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:54:642 (1216) >   Avail RAM = 1.9 GB (1973 MB)
+12:40:54:662 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:54:697 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:54:722 (1216) > cdc::InitHairData(2): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=773376)
+12:40:54:737 (1216) > Memory statistics:
+12:40:54:762 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:54:782 (1216) >   Avail RAM = 1.9 GB (1973 MB)
+12:40:54:808 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:54:828 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:54:847 (1216) > cdc::InitHairData(4): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=773376)
+12:40:54:867 (1216) > Memory statistics:
+12:40:54:898 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:54:917 (1216) >   Avail RAM = 1.9 GB (1974 MB)
+12:40:54:938 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:54:958 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:54:998 (1216) > cdc::InitHairData(5): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=580032)
+12:40:55:008 (1216) > Memory statistics:
+12:40:55:038 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:058 (1216) >   Avail RAM = 1.9 GB (1974 MB)
+12:40:55:083 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:098 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:128 (1216) > cdc::InitHairData(9): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=773376)
+12:40:55:148 (1216) > Memory statistics:
+12:40:55:172 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:187 (1216) >   Avail RAM = 1.9 GB (1974 MB)
+12:40:55:218 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:238 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:258 (1216) > cdc::InitHairData(10): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=773376)
+12:40:55:278 (1216) > Memory statistics:
+12:40:55:298 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:328 (1216) >   Avail RAM = 1.9 GB (1975 MB)
+12:40:55:375 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:398 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:462 (1216) > cdc::InitHairData(1): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1367808)
+12:40:55:538 (1216) > Memory statistics:
+12:40:55:568 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:588 (1216) >   Avail RAM = 1.9 GB (1975 MB)
+12:40:55:623 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:638 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:668 (1216) > cdc::InitHairData(2): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1367808)
+12:40:55:688 (1216) > Memory statistics:
+12:40:55:713 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:732 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:55:747 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:778 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:798 (1216) > cdc::InitHairData(4): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1367808)
+12:40:55:838 (1216) > Memory statistics:
+12:40:55:897 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:55:928 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:55:948 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:55:967 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:55:998 (1216) > cdc::InitHairData(5): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1025856)
+12:40:56:018 (1216) > Memory statistics:
+12:40:56:048 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:075 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:087 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:117 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:138 (1216) > cdc::InitHairData(9): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1367808)
+12:40:56:168 (1216) > Memory statistics:
+12:40:56:188 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:217 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:238 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:258 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:288 (1216) > cdc::InitHairData(10): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=1367808)
+12:40:56:347 (1216) > Memory statistics:
+12:40:56:388 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:428 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:438 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:468 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:498 (1216) > cdc::InitHairData(1): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=466944)
+12:40:56:527 (1216) > Memory statistics:
+12:40:56:537 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:568 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:588 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:607 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:628 (1216) > cdc::InitHairData(2): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=466944)
+12:40:56:658 (1216) > Memory statistics:
+12:40:56:688 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:708 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:728 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:768 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:798 (1216) > cdc::InitHairData(4): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=466944)
+12:40:56:828 (1216) > Memory statistics:
+12:40:56:858 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:56:887 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:56:917 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:56:958 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:56:987 (1216) > cdc::InitHairData(5): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=350208)
+12:40:57:017 (1216) > Memory statistics:
+12:40:57:037 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:078 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:57:108 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:137 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:57:177 (1216) > cdc::InitHairData(9): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=466944)
+12:40:57:228 (1216) > Memory statistics:
+12:40:57:248 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:267 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:57:288 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:317 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:57:338 (1216) > cdc::InitHairData(10): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=466944)
+12:40:57:359 (1216) > Memory statistics:
+12:40:57:378 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:408 (1216) >   Avail RAM = 1.9 GB (1976 MB)
+12:40:57:427 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:448 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:57:468 (1216) > cdc::InitHairData(1): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=85248)
+12:40:57:487 (1216) > Memory statistics:
+12:40:57:508 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:540 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:57:557 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:598 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:57:637 (1216) > cdc::InitHairData(2): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=85248)
+12:40:57:668 (1216) > Memory statistics:
+12:40:57:697 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:717 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:57:787 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:808 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:57:837 (1216) > cdc::InitHairData(4): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=85248)
+12:40:57:847 (1216) > Memory statistics:
+12:40:57:878 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:57:898 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:57:947 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:57:988 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:58:027 (1216) > cdc::InitHairData(5): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=63936)
+12:40:58:048 (1216) > Memory statistics:
+12:40:58:077 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:58:098 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:58:128 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:58:168 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:58:208 (1216) > cdc::InitHairData(9): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=85248)
+12:40:58:258 (1216) > Memory statistics:
+12:40:58:288 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:58:318 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:58:358 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:58:398 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:40:58:428 (1216) > cdc::InitHairData(10): ID3D11Device::CreateBuffer failed with HRESULT 0x80070057 (BindFlags=136, ByteWidth=85248)
+12:40:58:457 (1216) > Memory statistics:
+12:40:58:578 (1216) >   Total RAM = 3.9 GB (4039 MB)
+12:40:58:617 (1216) >   Avail RAM = 1.9 GB (1977 MB)
+12:40:58:637 (1216) >   Total virtual memory = 4.0 GB (4095 MB)
+12:40:58:657 (1216) >   Avail virtual memory = 3.0 GB (3075 MB)
+12:41:23:617 (1216) > Player object AddRef laracroft: 1 => 2
+12:41:23:667 (1216) > Player object AddRef laracroft: 2 => 3
+12:41:23:687 (1216) > Player object AddRef laracroft: 3 => 4
+12:48:45:102 (1216) > Player object RemRef laracroft: 4 => 3
+12:48:45:137 (1216) > Player object RemRef laracroft: 3 => 2
+12:48:45:152 (1216) > Player object RemRef laracroft: 2 => 1
+12:49:05:031 (1216) > Player object AddRef laracroft: 1 => 2
+12:49:05:061 (1216) > Player object AddRef laracroft: 2 => 3
+12:49:05:101 (1216) > Player object AddRef laracroft: 3 => 4
+12:53:51:548 (1216) > Player object RemRef laracroft: 4 => 3
+12:53:51:578 (1216) > Player object RemRef laracroft: 3 => 2
+12:53:51:593 (1216) > Player object RemRef laracroft: 2 => 1
+12:54:17:878 (1216) > Player object AddRef laracroft: 1 => 2
+12:54:17:927 (1216) > Player object AddRef laracroft: 2 => 3
+12:54:17:947 (1216) > Player object AddRef laracroft: 3 => 4
+13:02:15:142 (1216) > Player object RemRef laracroft: 4 => 3
+13:02:15:181 (1216) > Player object RemRef laracroft: 3 => 2
+13:02:15:201 (1216) > Player object RemRef laracroft: 2 => 1
+13:02:17:551 (1216) > Player object AddRef laracroft: 1 => 2
+13:02:17:571 (1216) > Player object AddRef laracroft: 2 => 3
+13:02:17:601 (1216) > Player object AddRef laracroft: 3 => 4
+13:03:52:590 (1216) > Player object RemRef laracroft: 4 => 3
+13:03:52:620 (1216) > Player object RemRef laracroft: 3 => 2
+13:03:52:640 (1216) > Player object RemRef laracroft: 2 => 1
+13:03:55:000 (1216) > Player object AddRef laracroft: 1 => 2
+13:03:55:020 (1216) > Player object AddRef laracroft: 2 => 3
+13:03:55:050 (1216) > Player object AddRef laracroft: 3 => 4
+13:09:21:316 (1216) > Player object RemRef laracroft: 4 => 3
+13:09:21:350 (1216) > Player object RemRef laracroft: 3 => 2
+13:09:21:366 (1216) > Player object RemRef laracroft: 2 => 1
+13:09:23:586 (1216) > Player object AddRef laracroft: 1 => 2
+13:09:23:606 (1216) > Player object AddRef laracroft: 2 => 3
+13:09:23:626 (1216) > Player object AddRef laracroft: 3 => 4
+13:13:51:363 (1216) > Player object RemRef laracroft: 4 => 3
+13:14:07:333 (1216) > Player object AddRef laracroft: 3 => 4
+13:22:41:916 (1216) > Player object RemRef laracroft: 4 => 3
+13:22:42:036 (1216) > Player object RemRef laracroft: 3 => 2
+13:22:42:102 (1216) > Player object RemRef laracroft: 2 => 1
+13:22:44:366 (1216) > Player object AddRef laracroft: 1 => 2
+13:22:44:446 (1216) > Player object AddRef laracroft: 2 => 3
+13:22:44:516 (1216) > Player object AddRef laracroft: 3 => 4
+13:24:47:655 (1216) > Player object RemRef laracroft: 4 => 3
+13:24:47:734 (1216) > Player object RemRef laracroft: 3 => 2
+13:24:47:794 (1216) > Player object RemRef laracroft: 2 => 1
+13:24:50:055 (1216) > Player object AddRef laracroft: 1 => 2
+13:24:50:125 (1216) > Player object AddRef laracroft: 2 => 3
+13:24:50:195 (1216) > Player object AddRef laracroft: 3 => 4
+13:32:46:269 (1216) > Player object RemRef laracroft: 4 => 3
+13:33:21:968 (1216) > Player object AddRef laracroft: 3 => 4
+13:43:27:580 (1216) > Player object RemRef laracroft: 4 => 3
+13:43:27:701 (1216) > Player object RemRef laracroft: 3 => 2
+13:43:27:770 (1216) > Player object RemRef laracroft: 2 => 1
+13:43:29:990 (1216) > Player object AddRef laracroft: 1 => 2
+13:43:30:062 (1216) > Player object AddRef laracroft: 2 => 3
+13:43:30:130 (1216) > Player object AddRef laracroft: 3 => 4
+14:31:05:790 (1216) > Player object RemRef laracroft: 4 => 3
+14:31:05:884 (1216) > Player object RemRef laracroft: 3 => 2
+14:31:05:954 (1216) > Player object RemRef laracroft: 2 => 1
+14:31:08:235 (1216) > Player object AddRef laracroft: 1 => 2
+14:31:08:305 (1216) > Player object AddRef laracroft: 2 => 3
+14:31:08:375 (1216) > Player object AddRef laracroft: 3 => 4
+14:39:43:018 (1216) > Player object RemRef laracroft: 4 => 3
+14:39:43:098 (1216) > Player object RemRef laracroft: 3 => 2
+14:39:43:160 (1216) > Player object RemRef laracroft: 2 => 1
+14:39:45:418 (1216) > Player object AddRef laracroft: 1 => 2
+14:39:45:498 (1216) > Player object AddRef laracroft: 2 => 3
+14:39:45:568 (1216) > Player object AddRef laracroft: 3 => 4
+14:39:55:093 (1216) > Player object RemRef laracroft: 4 => 3
+14:39:55:168 (1216) > Player object RemRef laracroft: 3 => 2
+14:39:55:228 (1216) > Player object RemRef laracroft: 2 => 1
+14:39:57:498 (1216) > Player object AddRef laracroft: 1 => 2
+14:39:57:588 (1216) > Player object AddRef laracroft: 2 => 3
+14:39:57:658 (1216) > Player object AddRef laracroft: 3 => 4
+14:47:50:502 (1216) > Player object RemRef laracroft: 4 => 3
+14:48:18:492 (1216) > Player object AddRef laracroft: 3 => 4
+14:51:29:349 (1216) > Player object RemRef laracroft: 4 => 3
+14:51:53:799 (1216) > Player object AddRef laracroft: 3 => 4
+14:55:14:437 (1216) > Player object RemRef laracroft: 4 => 3
+14:55:14:517 (1216) > Player object RemRef laracroft: 3 => 2
+14:55:14:587 (1216) > Player object RemRef laracroft: 2 => 1
+14:55:16:816 (1216) > Player object AddRef laracroft: 1 => 2
+14:55:16:886 (1216) > Player object AddRef laracroft: 2 => 3
+14:55:16:956 (1216) > Player object AddRef laracroft: 3 => 4
+14:58:26:534 (1216) > Player object RemRef laracroft: 4 => 3
+14:58:26:634 (1216) > Player object RemRef laracroft: 3 => 2
+14:58:26:694 (1216) > Player object RemRef laracroft: 2 => 1
+14:58:28:904 (1216) > Player object AddRef laracroft: 1 => 2
+14:58:28:965 (1216) > Player object AddRef laracroft: 2 => 3
+14:58:29:039 (1216) > Player object AddRef laracroft: 3 => 4
+15:05:42:889 (1216) > Player object RemRef laracroft: 4 => 3
+15:05:42:958 (1216) > Player object RemRef laracroft: 3 => 2
+15:05:43:028 (1216) > Player object RemRef laracroft: 2 => 1
+15:05:45:239 (1216) > Player object AddRef laracroft: 1 => 2
+15:05:45:359 (1216) > Player object AddRef laracroft: 2 => 3
+15:05:45:428 (1216) > Player object AddRef laracroft: 3 => 4
+15:06:36:798 (1216) > Player object RemRef laracroft: 4 => 3
+15:06:36:878 (1216) > Player object RemRef laracroft: 3 => 2
+15:06:36:938 (1216) > Player object RemRef laracroft: 2 => 1
+15:06:39:168 (1216) > Player object AddRef laracroft: 1 => 2
+15:06:39:228 (1216) > Player object AddRef laracroft: 2 => 3
+15:06:39:298 (1216) > Player object AddRef laracroft: 3 => 4
+15:13:44:298 (1216) > Player object RemRef laracroft: 4 => 3
+15:13:44:382 (1216) > Player object RemRef laracroft: 3 => 2
+15:13:44:442 (1216) > Player object RemRef laracroft: 2 => 1
+15:13:46:673 (1216) > Player object AddRef laracroft: 1 => 2
+15:13:46:742 (1216) > Player object AddRef laracroft: 2 => 3
+15:13:46:817 (1216) > Player object AddRef laracroft: 3 => 4
+15:15:58:181 (1216) > Player object RemRef laracroft: 4 => 3
+15:15:58:275 (1216) > Player object RemRef laracroft: 3 => 2
+15:15:58:340 (1216) > Player object RemRef laracroft: 2 => 1
+15:16:09:060 (1216) > Player object AddRef laracroft: 1 => 2
+15:16:09:161 (1216) > Player object AddRef laracroft: 2 => 3
+15:16:09:231 (1216) > Player object AddRef laracroft: 3 => 4
+15:18:20:399 (1216) > Player object RemRef laracroft: 4 => 3
+15:18:20:489 (1216) > Player object RemRef laracroft: 3 => 2
+15:18:20:559 (1216) > Player object RemRef laracroft: 2 => 1
+15:18:22:809 (1216) > Player object AddRef laracroft: 1 => 2
+15:18:22:879 (1216) > Player object AddRef laracroft: 2 => 3
+15:18:22:949 (1216) > Player object AddRef laracroft: 3 => 4
+15:28:34:031 (1216) > Player object RemRef laracroft: 4 => 3
+15:28:34:161 (1216) > Player object RemRef laracroft: 3 => 2
+15:28:34:231 (1216) > Player object RemRef laracroft: 2 => 1
+15:28:36:441 (1216) > Player object AddRef laracroft: 1 => 2
+15:28:36:532 (1216) > Player object AddRef laracroft: 2 => 3
+15:28:36:602 (1216) > Player object AddRef laracroft: 3 => 4
+15:52:24:184 (1216) > Player object RemRef laracroft: 4 => 3
+15:52:24:294 (1216) > Player object RemRef laracroft: 3 => 2
+15:52:24:413 (1216) > Player object RemRef laracroft: 2 => 1
+15:52:26:703 (1216) > Player object AddRef laracroft: 1 => 2
+15:52:26:784 (1216) > Player object AddRef laracroft: 2 => 3
+15:52:26:854 (1216) > Player object AddRef laracroft: 3 => 4
+16:20:33:497 (1216) > Player object RemRef laracroft: 4 => 3
+16:20:33:572 (1216) > Player object RemRef laracroft: 3 => 2
+16:20:33:633 (1216) > Player object RemRef laracroft: 2 => 1
+16:20:36:312 (1216) > Player object AddRef laracroft: 1 => 2
+16:20:36:372 (1216) > Player object AddRef laracroft: 2 => 3
+16:20:36:447 (1216) > Player object AddRef laracroft: 3 => 4
+16:21:02:437 (1216) > Player object RemRef laracroft: 4 => 3
+16:21:02:662 (1216) > Player object RemRef laracroft: 3 => 2
+16:21:02:762 (1216) > Player object RemRef laracroft: 2 => 1
+16:21:05:452 (1216) > Player object AddRef laracroft: 1 => 2
+16:21:05:522 (1216) > Player object AddRef laracroft: 2 => 3
+16:21:05:587 (1216) > Player object AddRef laracroft: 3 => 4
+16:21:44:882 (1216) > Player object RemRef laracroft: 4 => 3
+16:21:44:952 (1216) > Player object RemRef laracroft: 3 => 2
+16:21:45:026 (1216) > Player object RemRef laracroft: 2 => 1
+16:21:47:701 (1216) > Player object AddRef laracroft: 1 => 2
+16:21:47:761 (1216) > Player object AddRef laracroft: 2 => 3
+16:21:47:836 (1216) > Player object AddRef laracroft: 3 => 4
+16:22:22:216 (1216) > Player object RemRef laracroft: 4 => 3
+16:22:22:301 (1216) > Player object RemRef laracroft: 3 => 2
+16:22:22:371 (1216) > Player object RemRef laracroft: 2 => 1
+16:22:25:041 (1216) > Player object AddRef laracroft: 1 => 2
+16:22:25:101 (1216) > Player object AddRef laracroft: 2 => 3
+16:22:25:171 (1216) > Player object AddRef laracroft: 3 => 4
+16:28:55:401 (1216) > Player object RemRef laracroft: 4 => 3
+16:28:55:466 (1216) > Player object RemRef laracroft: 3 => 2
+16:28:55:526 (1216) > Player object RemRef laracroft: 2 => 1
+16:28:57:746 (1216) > Player object AddRef laracroft: 1 => 2
+16:28:57:816 (1216) > Player object AddRef laracroft: 2 => 3
+16:28:57:876 (1216) > Player object AddRef laracroft: 3 => 4
+16:45:53:968 (1216) > Player object RemRef laracroft: 4 => 3
+16:45:54:043 (1216) > Player object RemRef laracroft: 3 => 2
+16:45:54:103 (1216) > Player object RemRef laracroft: 2 => 1
+16:45:56:303 (1216) > Player object AddRef laracroft: 1 => 2
+16:45:56:373 (1216) > Player object AddRef laracroft: 2 => 3
+16:45:56:448 (1216) > Player object AddRef laracroft: 3 => 4
+16:46:51:932 (1216) > Player object RemRef laracroft: 4 => 3
+16:46:52:006 (1216) > Player object RemRef laracroft: 3 => 2
+16:46:52:062 (1216) > Player object RemRef laracroft: 2 => 1
+16:46:54:273 (1216) > Player object AddRef laracroft: 1 => 2
+16:46:54:372 (1216) > Player object AddRef laracroft: 2 => 3
+16:46:54:462 (1216) > Player object AddRef laracroft: 3 => 4
+16:47:43:012 (1216) > Player object RemRef laracroft: 4 => 3
+16:47:43:077 (1216) > Player object RemRef laracroft: 3 => 2
+16:47:43:142 (1216) > Player object RemRef laracroft: 2 => 1
+16:47:45:332 (1216) > Player object AddRef laracroft: 1 => 2
+16:47:45:401 (1216) > Player object AddRef laracroft: 2 => 3
+16:47:45:472 (1216) > Player object AddRef laracroft: 3 => 4
+16:48:33:997 (1216) > Player object RemRef laracroft: 4 => 3
+16:48:34:061 (1216) > Player object RemRef laracroft: 3 => 2
+16:48:34:121 (1216) > Player object RemRef laracroft: 2 => 1
+16:48:36:321 (1216) > Player object AddRef laracroft: 1 => 2
+16:48:36:381 (1216) > Player object AddRef laracroft: 2 => 3
+16:48:36:451 (1216) > Player object AddRef laracroft: 3 => 4
+16:53:55:617 (1216) > Player object RemRef laracroft: 4 => 3
+16:53:55:702 (1216) > Player object RemRef laracroft: 3 => 2
+16:53:55:767 (1216) > Player object RemRef laracroft: 2 => 1
+16:54:23:027 (1216) > Exiting the game.

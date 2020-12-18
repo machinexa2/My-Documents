@@ -1,0 +1,1499 @@
+Log: Log file open, 11/10/20 15:44:08
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+Init: Version: 12046
+Init: Compiled (64-bit - Shipping): Apr 29 2014 14:14:59
+Init: Changelist: 22533
+Init: Command line: -installed -seekfreeloadingpcconsole
+Init: Base directory: D:\Games\Installed\Outlast Whistleblower\Binaries\Win64\
+Init: Executable: OLGame
+[0001.70] Init: Computer: SUNRAIT-PC
+[0001.70] Init: User: Sunrait
+[0001.70] Init: CPU Page size=4096, Processors=4
+[0001.70] Init: High frequency timer resolution =10.000000 MHz
+[0001.70] Init: Memory total: Physical=3.9GB (4GB approx) Pagefile=5.2GB Virtual=131072.0GB
+[0001.71] Log: Steam Client API initialized 0
+[0001.71] Log: Steam Game Server API initialized 0
+[0001.71] Init: Presizing for 33476 objects not considered by GC, pre-allocating 0 bytes.
+[0001.73] Init: Object subsystem initialized
+[0001.94] Log: CachePaths() took 0.10 Seconds
+[0002.02] Log: Using D3D9 device (0): Intel(R) HD Graphics 3000
+[0002.02] Log: Shader platform (RHI): PC-D3D-SM3
+[0003.03] Log: PhysX GPU Support: DISABLED
+[0016.98] Log: 59742 objects as part of root set at end of initial load.
+[0016.98] Log: 0 out of 0 bytes used by permanent object pool.
+[0016.98] Log: Initializing Engine...
+[0017.04] Log: Wwise(R) SDK Version 2013.2.3 Build 4833. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0031.16] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0031.41] Warning: Warning, Failed to find object 'Class None.'
+[0031.47] Log: Found DLC CookedPCConsoleDLC
+[0032.02] Log:  - Found 153 package files
+[0032.03] Log:  - Found 198 content files
+[0032.03] Log: Loading guid cache GuidCache_dlc1
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_Cannibal/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Cannibal.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_Cannibal/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Cannibal.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_DDenis/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_DDenis.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_DDenis/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_DDenis.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_Groom/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Groom.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_Groom/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Groom.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATMANIC/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATMANIC.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATMANIC/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATMANIC.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATSOCIO/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATSOCIO.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATSOCIO/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATSOCIO.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATTERR/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATTERR.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_PATTERR/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATTERR.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_SCICALM/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCICALM.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_SCICALM/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCICALM.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_SCITERRI/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCITERRI.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_AI_SCITERRI/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCITERRI.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_AdminRev.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_AdminRev.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Lab.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Lab.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Prison.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Prison.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Cannibal_Build1.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Cannibal_Build1.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_DDenis_Attic/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_DDenis_Attic.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_DDenis_Attic/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_DDenis_Attic.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_FMartin/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_FMartin.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_FMartin/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_FMartin.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Build2.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Build2.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Lab.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Lab.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_AdminRev.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_AdminRev.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Build1.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Build1.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Lab.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Lab.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_MaleWard/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_MaleWard.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_MaleWard/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_MaleWard.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_PrisonRev.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Guard_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_PrisonRev.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Julian/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Julian.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Julian/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Julian.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build1.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build1.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build2.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build2.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_PrisonRev.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_Patients_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_PrisonRev.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build1.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build1.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build2.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build2.txt
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Lab.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Lab.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_Amb_Interior_01.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_ACT1_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT1_Various.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_ACT1_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT1_Various.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_ACT3_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT3_Various.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_ACT3_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT3_Various.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Admin_Block_2/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Admin_Block_2.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Admin_Block_2/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Admin_Block_2.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_AI/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_AI.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_AI/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_AI.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Ext_Courtyard/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Ext_Courtyard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Ext_Courtyard/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Ext_Courtyard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Female_Ward/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Female_Ward.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Female_Ward/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Female_Ward.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Prison.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Prison.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Sewers/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Sewers.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Sewers/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Sewers.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Priest/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Priest.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Priest/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Priest.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Soldier/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Soldier.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Soldier/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Soldier.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Surgeon/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Surgeon.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Surgeon/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Surgeon.txt
+[0032.11] DevDlc: Caching file: CharTextures_dlc1/..\..\OLGame\CookedPCConsoleDLC\CharTextures_dlc1.tfc
+[0032.11] DevDlc: Caching file: GlobalShaderCache-PC-D3D-SM3/..\..\OLGame\CookedPCConsoleDLC\GlobalShaderCache-PC-D3D-SM3.bin
+[0032.11] DevDlc: Caching file: Init/..\..\OLGame\CookedPCConsoleDLC\Init.bnk
+[0032.11] DevDlc: Caching file: Init/..\..\OLGame\CookedPCConsoleDLC\Init.txt
+[0032.11] DevDlc: Caching file: Lighting_dlc1/..\..\OLGame\CookedPCConsoleDLC\Lighting_dlc1.tfc
+[0032.11] DevDlc: Caching file: PersistentCookerShaderData/..\..\OLGame\CookedPCConsoleDLC\PersistentCookerShaderData.bin
+[0032.11] DevDlc: Caching file: PluginInfo/..\..\OLGame\CookedPCConsoleDLC\PluginInfo.xml
+[0032.11] DevDlc: Caching file: SB_DLC_MU_AdminRev/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_AdminRev.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_AdminRev/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_AdminRev.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_build1/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_build1.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_build1/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_build1.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Build2/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Build2.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Build2/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Build2.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Denis/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Denis.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Denis/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Denis.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Groom/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Groom.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Groom/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Groom.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Maleward/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Maleward.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Maleward/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Maleward.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Prison/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Prison.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Prison/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Prison.txt
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Stingers/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Stingers.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_MU_Stingers/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Stingers.txt
+[0032.11] DevDlc: Caching file: SB_DLC_States/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_States.bnk
+[0032.11] DevDlc: Caching file: SB_DLC_States/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_States.txt
+[0032.11] DevDlc: Caching file: SoundbanksInfo/..\..\OLGame\CookedPCConsoleDLC\SoundbanksInfo.xml
+[0032.11] DevDlc: Caching file: Textures_dlc1/..\..\OLGame\CookedPCConsoleDLC\Textures_dlc1.tfc
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Basement/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Basement.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Basement/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Basement.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Courtyard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Courtyard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Exterior.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Exterior.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_FemaleWard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_FemaleWard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Generic.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Generic.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Interior_01.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Interior_01.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Labo.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Labo.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Male_Ward/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Male_Ward.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Male_Ward/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Male_Ward.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Prison_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Prison_01.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Prison_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Prison_01.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Sewer.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Amb_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Sewer.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Attic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Attic.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Attic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Attic.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build1.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build1.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build2.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build2.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Ext/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Ext.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Ext/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Ext.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Lab.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Lab.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_AdminRev/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_AdminRev.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_AdminRev/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_AdminRev.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build1.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build1.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build2.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build2.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Lab.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Lab.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Prison.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Prison.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_build1.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_build1.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Can/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Can.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Can/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Can.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_generic.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_generic.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Impacts/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Impacts.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Impacts/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Impacts.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_General_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_General_Sound.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_General_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_General_Sound.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Intro_Logo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Intro_Logo.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Intro_Logo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Intro_Logo.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Menu/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Menu.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Menu/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Menu.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Admin_Revisit/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Admin_Revisit.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Admin_Revisit/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Admin_Revisit.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Courtyard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Courtyard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Exterior.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Exterior.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_FemaleWard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_FemaleWard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Interior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Interior.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Interior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Interior.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Labo.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Labo.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_MaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_MaleWard.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_MaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_MaleWard.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Prison.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Prison.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Sewer.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Music_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Sewer.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_NPCs_Sounds/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_NPCs_Sounds.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_NPCs_Sounds/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_NPCs_Sounds.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Player_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Player_Sound.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Player_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Player_Sound.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Reverb/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Reverb.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Reverb/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Reverb.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_SFX/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_SFX.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_SFX/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_SFX.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Soldier_Snd/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Soldier_Snd.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Soldier_Snd/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Soldier_Snd.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Swarm_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Swarm_Sound.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_Swarm_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Swarm_Sound.txt
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Miles/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_VO_Miles.bnk
+[0032.11] DevDlc: Caching file: WwiseDefaultBank_VO_Miles/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_VO_Miles.txt
+[0032.15] Log: DLC installed successfully
+[0032.25] Log: LoadMap: DLC_Intro_Persistent?Name=Player?Team=255
+[0032.54] Log: Game class is 'OLGame'
+[0032.60] Log: Primary PhysX scene will be in software.
+[0032.60] Log: Creating Primary PhysX Scene.
+[0032.74] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[0032.74] Log: Bringing World DLC_Intro_Persistent.TheWorld up for play (0) at 2020.11.10-15.44.39
+[0032.74] Log: Bringing up level for play took: 0.150056
+[0033.05] Log: Playing DLC - invalid checkpoint but DLC persistent
+[0033.64] Log: ########### Finished loading level: 1.391077 seconds
+[0033.67] Log: Flushing async loaders.
+[0034.18] Log: Flushed async loaders.
+[0034.18] Log: Initializing Engine Completed
+[0034.18] Log: Steamworks is disabled
+[0041.66] Log: >>>>>>>>>>>>>> Initial startup: 41.66s <<<<<<<<<<<<<<<
+[0041.71] Log: ActivateLevel dlc_mainmenugame 1 1 1
+[0041.71] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[0041.96] Log: Flushing async loaders.
+[0042.27] Log: Flushed async loaders.
+[0042.28] Log:  ### --- Resetting level dlc_checkpoints
+[0042.28] Log:  ### --- Resetting level x_checkpoints
+[0042.29] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[0042.29] Log: COOKEDPHYSICS: BSP 0.00 KB
+[0042.30] Log:  ### --- Resetting level dlc_mainmenugame
+[0045.53] Log: Resizing to 1280x720 (fullscreen)
+[0052.29] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0052.36] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0052.36] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0388.15] Log: --- LOADING CHECKPOINT "Building2_Post_Elevator" ---
+[0388.15] DevGameState: Resetting GameState
+[0388.15] Log: ### Game state Courtyard2_PushablePushed_Persist not found!
+[0388.15] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0394.15] Log: Reloaded all WWise Banks for DLC
+[0394.16] Log: --- LOADING MOVIE START ---
+[0394.17] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0394.39] Log: Flushing async loaders.
+[0394.40] Log: Flushed async loaders.
+[0394.48] Log:  ### --- Resetting level dlc_building2_persistent
+[0394.55] Log: Committed map change via OLEngine Transient.OLEngine_0
+[0394.65] Log: Flushing async loaders.
+[0437.56] Log: Flushed async loaders.
+[0437.69] Log:  ### --- Resetting level dlc_build2floor2-01_art
+[0437.69] Log:  ### --- Resetting level dlc_build2floor2-04_art
+[0437.70] Log:  ### --- Resetting level dlc_build2staircase-01_art
+[0437.76] Log:  ### --- Resetting level dlc_build2garden-01_art
+[0437.76] Log:  ### --- Resetting level dlc_build2skydome-01_art
+[0437.76] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0437.77] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0437.91] Log:  ### --- Resetting level dlc_prisontoshop-01_art
+[0438.07] Log:  ### --- Resetting level dlc_build2floor2-01_ld
+[0438.11] Log: Physics mode for (SkeletalMeshActor_1) is not compatible with TickGroup(0) adjusting
+[0438.11] Log:  ### --- Resetting level dlc_build2floor2-01_se
+[0438.12] Log:  ### --- Resetting level dlc_build2floor3-01_se
+[0438.12] Log:  ### --- Resetting level dlc_build2floor2-01_snd
+[0439.14] DevGameState: GS - Applying checkpoint Building2_Post_Elevator
+[0439.14] Log: New master gamestate list found.
+[0439.14] Log: New master checkpoint list found.
+[0441.25] Log: KISMET: Remote event NearElevator_2nd_Floor activated for 1 recipients
+[0441.40] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[0441.40] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[0455.61] Log: --- LOADING MOVIE TIME: 1:01 min ---
+[0479.36] Log: Physics mode for (SkeletalMeshActor_6) is not compatible with TickGroup(0) adjusting
+[0479.36] Log: Physics mode for (SkeletalMeshActor_9) is not compatible with TickGroup(0) adjusting
+[0479.36] Log: Physics mode for (SkeletalMeshActor_5) is not compatible with TickGroup(0) adjusting
+[0479.36] Log: Physics mode for (SkeletalMeshActor_7) is not compatible with TickGroup(0) adjusting
+[0479.36] Log: Physics mode for (SkeletalMeshActor_8) is not compatible with TickGroup(0) adjusting
+[0480.20] Log:  ### --- Resetting level dlc_build2floor2-02_art
+[0490.59] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0491.30] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[0496.83] Log: [OLHero_1] Special move started: SMT_EnterDoorInteraction
+[0496.84] Log: [OLHero_1] Activating adjustment of [X=66.198 Y=-21.138 Z=0.000] with heading error 10.51 degs in 0.35 seconds
+[0497.51] Log: [OLHero_1] Special move completed: SMT_EnterDoorInteraction
+[0512.38] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0512.38] Log: [OLHero_1] Activating adjustment of [X=-37.291 Y=60.094 Z=0.000] with heading error 26.03 degs in 0.35 seconds
+[0514.63] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0516.95] Log: KISMET: Remote event GroomDown activated for 1 recipients
+[0524.02] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0524.02] Log: [OLHero_1] Activating adjustment of [X=-2.632 Y=1.569 Z=0.000] with heading error 0.24 degs in 0.02 seconds
+[0526.24] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0548.34] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_0
+	Function OLGame.OLBot:Idle.BeginState:0029
+[0548.40] Log: OLEnemyGroom_0 PLAYAKEVENT with no AkEvent called from PlayLanded
+[0548.41] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[0549.01] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0549.01] Log: [OLHero_1] Activating adjustment of [X=-10.985 Y=-14.068 Z=0.000] with heading error 25.82 degs in 0.17 seconds
+[0551.23] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0551.55] Log: [OLEnemyGroom_0] Special move started: SMT_EnterDoorInteraction
+[0551.55] Log: [OLEnemyGroom_0] Activating adjustment of [X=8.327 Y=-1.259 Z=0.000] with heading error 2.01 degs in 0.04 seconds
+[0552.61] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0552.61] Log: [OLHero_1] Activating adjustment of [X=-2.252 Y=-2.135 Z=0.000] with heading error 0.01 degs in 0.02 seconds
+[0554.32] Log: [OLEnemyGroom_0] Special move completed: SMT_EnterDoorInteraction
+[0554.85] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0559.63] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0559.63] Log: [OLHero_1] Activating adjustment of [X=42.450 Y=9.895 Z=0.000] with heading error -32.09 degs in 0.22 seconds
+[0561.86] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0568.25] Log: [OLEnemyGroom_0] Special move started: SMT_AttackNormal
+[0569.51] Log: [OLEnemyGroom_0] Special move completed: SMT_AttackNormal
+[0570.07] Log: Throw: Skipping Direction 0
+[0570.07] Log: Throw: Skipping Direction 1
+[0570.07] Log: Throw: Skipping Direction 2
+[0570.34] Log: Throw: Skipping Direction 0
+[0570.34] Log: Throw: Skipping Direction 1
+[0570.34] Log: [OLHero_1] Special move started: SMT_HeroGrabbedNormal
+[0570.34] Log: [OLHero_1] Activating adjustment of [X=48.334 Y=-61.007 Z=0.000] with heading error -0.01 degs in 0.39 seconds
+[0570.34] Log: [OLEnemyGroom_0] Special move started: SMT_AttackGrab
+[0570.34] Log: [OLEnemyGroom_0] Activating adjustment of [X=-2.813 Y=3.462 Z=0.000] with heading error 39.89 degs in 0.27 seconds
+[0572.01] Log: [OLEnemyGroom_0] Special move completed: SMT_AttackGrab
+[0572.01] Log: [OLEnemyGroom_0] Special move started: SMT_KillHero
+[0572.01] Log: [OLHero_1] Special move completed: SMT_HeroGrabbedNormal
+[0572.01] Log: [OLHero_1] Special move started: SMT_HeroDecapitate
+[0590.33] Log: [OLHero_1] Special move completed: SMT_HeroDecapitate
+[0590.34] DevGameState: GS - OnPlayerDeath
+[0590.38] Log: --- LOADING CHECKPOINT "Building2_Post_Elevator" ---
+[0590.38] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0590.40] Log: --- LOADING MOVIE START ---
+[0590.52] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0590.58] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0591.62] DevGameState: GS - Applying checkpoint Building2_Post_Elevator
+[0593.64] Log: KISMET: Remote event NearElevator_2nd_Floor activated for 1 recipients
+[0593.64] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[0593.64] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[0596.58] Log: --- LOADING MOVIE TIME: 6.17 sec ---
+[0603.33] Log:  ### --- Resetting level dlc_build2floor2-02_art
+[0603.93] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0604.45] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[0604.87] Log: [OLHero_2] Special move started: SMT_OpenDoorInstant
+[0604.87] Log: [OLHero_2] Activating adjustment of [X=-20.833 Y=19.332 Z=0.000] with heading error -0.05 degs in 0.14 seconds
+[0606.05] Log: [OLHero_2] Special move completed: SMT_OpenDoorInstant
+[0609.95] Log: KISMET: Remote event GroomDown activated for 1 recipients
+[0621.61] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_1
+	Function OLGame.OLBot:Idle.BeginState:0029
+[0621.61] Log: OLEnemyGroom_1 PLAYAKEVENT with no AkEvent called from PlayLanded
+[0621.61] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[0622.18] Log: [OLHero_2] Special move started: SMT_TryOpenLockedDoor
+[0622.18] Log: [OLHero_2] Activating adjustment of [X=-8.543 Y=-2.047 Z=0.000] with heading error 6.49 degs in 0.04 seconds
+[0624.40] Log: [OLHero_2] Special move completed: SMT_TryOpenLockedDoor
+[0624.76] Log: [OLEnemyGroom_1] Special move started: SMT_EnterDoorInteraction
+[0624.76] Log: [OLEnemyGroom_1] Activating adjustment of [X=6.600 Y=-0.997 Z=0.000] with heading error 1.32 degs in 0.03 seconds
+[0627.48] Log: [OLEnemyGroom_1] Special move completed: SMT_EnterDoorInteraction
+[0629.94] Log: Merge MovePoints: Extensions did not meet, ignoring.
+[0630.27] Log: Merge MovePoints: Extensions did not meet, ignoring.
+[0630.65] Log: Merge MovePoints: Extensions did not meet, ignoring.
+[0630.77] Log: Merge MovePoints: Extensions did not meet, ignoring.
+[0633.65] Log: [OLEnemyGroom_1] Special move started: SMT_AttackNormal
+[0634.74] Log: [OLEnemyGroom_1] Special move completed: SMT_AttackNormal
+[0637.82] Log: [OLHero_2] Special move started: SMT_TryOpenLockedDoor
+[0637.82] Log: [OLHero_2] Activating adjustment of [X=-111.670 Y=-13.106 Z=0.000] with heading error -5.11 degs in 0.56 seconds
+[0640.24] Log: [OLHero_2] Special move completed: SMT_TryOpenLockedDoor
+[0640.86] Log: [OLEnemyGroom_1] Special move started: SMT_AttackNormal
+[0642.04] Log: [OLEnemyGroom_1] Special move completed: SMT_AttackNormal
+[0653.03] Log: [OLHero_2] Special move started: SMT_TryOpenLockedDoor
+[0653.03] Log: [OLHero_2] Activating adjustment of [X=14.633 Y=18.515 Z=0.000] with heading error 34.39 degs in 0.23 seconds
+[0655.26] Log: [OLHero_2] Special move completed: SMT_TryOpenLockedDoor
+[0655.92] Log: [OLEnemyGroom_1] Special move started: SMT_AttackNormal
+[0656.87] Log: [OLEnemyGroom_1] Special move completed: SMT_AttackNormal
+[0657.62] Log: [OLEnemyGroom_1] Special move started: SMT_AttackNormal
+[0658.88] Log: [OLEnemyGroom_1] Special move completed: SMT_AttackNormal
+[0660.93] Log: OLEnemyGroom_1 PLAYAKEVENT with no AkEvent called from PlayLanded
+[0660.93] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[0671.12] Log: [OLHero_2] Special move started: SMT_TryOpenLockedDoor
+[0671.12] Log: [OLHero_2] Activating adjustment of [X=14.967 Y=-19.437 Z=0.000] with heading error -33.68 degs in 0.22 seconds
+[0673.92] Log: [OLHero_2] Special move completed: SMT_TryOpenLockedDoor
+[0674.51] Log: Throw: Skipping Direction 0
+[0674.51] Log: Throw: Skipping Direction 1
+[0674.51] Log: Throw: Skipping Direction 2
+[0674.51] Log: Throw: Skipping Direction 3
+[0674.81] Log: Throw: Skipping Direction 0
+[0674.81] Log: [OLHero_2] Special move started: SMT_HeroGrabbedNormal
+[0674.81] Log: [OLHero_2] Activating adjustment of [X=-1.487 Y=-34.301 Z=0.000] with heading error 0.00 degs in 0.17 seconds
+[0674.81] Log: [OLEnemyGroom_1] Special move started: SMT_AttackGrab
+[0674.81] Log: [OLEnemyGroom_1] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 13.53 degs in 0.09 seconds
+[0676.39] Log: [OLEnemyGroom_1] Special move completed: SMT_AttackGrab
+[0676.39] Log: [OLEnemyGroom_1] Special move started: SMT_KillHero
+[0676.39] Log: [OLHero_2] Special move completed: SMT_HeroGrabbedNormal
+[0676.39] Log: [OLHero_2] Special move started: SMT_HeroDecapitate
+[0694.75] Log: [OLHero_2] Special move completed: SMT_HeroDecapitate
+[0694.75] DevGameState: GS - OnPlayerDeath
+[0694.79] Log: --- LOADING CHECKPOINT "Building2_Post_Elevator" ---
+[0694.79] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0694.81] Log: --- LOADING MOVIE START ---
+[0694.86] Log: Starting at checkpoint "Building2_Post_Elevator" - DLC: yes
+[0694.94] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[0695.96] DevGameState: GS - Applying checkpoint Building2_Post_Elevator
+[0697.96] Log: KISMET: Remote event NearElevator_2nd_Floor activated for 1 recipients
+[0697.97] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[0697.97] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_16 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[0698.19] Log: --- LOADING MOVIE TIME: 3.38 sec ---
+[1366.89] Log:  ### --- Resetting level dlc_build2floor2-02_art
+[1368.07] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[1369.61] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[1370.14] Log: [OLHero_3] Special move started: SMT_OpenDoorInstant
+[1370.14] Log: [OLHero_3] Activating adjustment of [X=11.750 Y=22.694 Z=0.000] with heading error -29.05 degs in 0.19 seconds
+[1371.36] Log: [OLHero_3] Special move completed: SMT_OpenDoorInstant
+[1374.42] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1374.64] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_1.OLUIFrontEnd_PauseMenu_1
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[1374.64] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_1.OLUIFrontEnd_PauseMenu_1
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[1374.76] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1374.76] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1382.71] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1382.99] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_2.OLUIFrontEnd_PauseMenu_2
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[1382.99] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_2.OLUIFrontEnd_PauseMenu_2
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[1383.04] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1383.05] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1396.22] Log: KISMET: Remote event GroomDown activated for 1 recipients
+[1420.64] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_2
+	Function OLGame.OLBot:Idle.BeginState:0029
+[1420.65] Log: OLEnemyGroom_2 PLAYAKEVENT with no AkEvent called from PlayLanded
+[1420.65] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[1421.11] Log: [OLHero_3] Special move started: SMT_TryOpenLockedDoor
+[1421.11] Log: [OLHero_3] Activating adjustment of [X=-28.891 Y=-41.497 Z=0.000] with heading error 22.20 degs in 0.25 seconds
+[1423.32] Log: [OLHero_3] Special move completed: SMT_TryOpenLockedDoor
+[1425.11] Log: [OLHero_3] Special move started: SMT_EnterLocker
+[1425.11] Log: [OLHero_3] Activating adjustment of [X=15.220 Y=9.038 Z=0.000] with heading error -8.99 degs in 0.09 seconds
+[1425.43] Log: [OLEnemyGroom_2] Special move started: SMT_EnterDoorInteraction
+[1425.43] Log: [OLEnemyGroom_2] Activating adjustment of [X=0.548 Y=-0.083 Z=0.000] with heading error 2.40 degs in 0.02 seconds
+[1426.03] Log: KISMET: Remote event Torturetime activated for 1 recipients
+[1426.03] Log: KISMET: Remote event zindelocker activated for 1 recipients
+[1426.19] Log: --- SAVING CHECKPOINT "Building2_Torture" ---
+[1426.21] Log: Successfully wrote 892 bytes
+[1427.46] Log: KISMET: Remote event Start_GroomTorture activated for 2 recipients
+[1427.46] Log: KISMET: Remote event SND_MUS_LockerDrag activated for 1 recipients
+[1427.80] Log: [OLHero_3] Special move completed: SMT_EnterLocker
+[1427.80] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Walk
+[1427.80] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Cinematic
+[1466.14] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_2 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[1466.14] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_2 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[1473.50] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_6 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[1473.50] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_6 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[1475.77] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_21 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[1475.77] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_21 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[1486.28] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_18 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[1486.28] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_18 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[1492.76] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[1514.37] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_18 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[1514.37] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_18 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[1664.17] Log: KISMET: Remote event Flyon activated for 1 recipients
+[1753.61] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1753.67] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_3.OLUIFrontEnd_PauseMenu_3
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[1753.67] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_3.OLUIFrontEnd_PauseMenu_3
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[1753.69] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1753.69] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1851.20] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[1858.22] Log: KISMET: Remote event Unhide_GroomLocker activated for 1 recipients
+[1858.22] Log: KISMET: Remote event TortureDone activated for 1 recipients
+[1858.22] Log: KISMET: Remote event PutDoorsVisibilityOn activated for 1 recipients
+[1858.38] Log: --- SAVING CHECKPOINT "Building2_TortureDone" ---
+[1858.39] Log: Successfully wrote 896 bytes
+[1864.71] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1864.80] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_4.OLUIFrontEnd_PauseMenu_4
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[1864.80] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_4.OLUIFrontEnd_PauseMenu_4
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[1864.82] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1864.82] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1866.70] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1866.77] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_5.OLUIFrontEnd_PauseMenu_5
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[1866.77] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_5.OLUIFrontEnd_PauseMenu_5
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[1866.78] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1866.78] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1980.56] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[1980.66] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1980.67] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[1980.67] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_6.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_6.OLUIFrontEnd_Credits_6
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[1980.71] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_6.OLUIFrontEnd_EvidenceList_6
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0217
+[1980.71] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_6.OLUIFrontEnd_EvidenceList_6
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0293
+[2039.58] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2039.58] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2040.55] Log:  ### --- Resetting level dlc_build2gym-01_art
+[2046.88] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2046.88] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2064.64] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2064.64] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2071.65] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_3
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2071.65] Log: OLEnemyGroom_3 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2071.65] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2072.83] Log: [OLEnemyGroom_3] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase02_Groom_01
+[2077.08] Log: [OLEnemyGroom_3] Special move started: SMT_Disturbed
+[2081.28] Log: [OLEnemyGroom_3] Special move completed: SMT_Disturbed
+[2086.50] Log: [OLEnemyGroom_3] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_14
+[2086.89] Log: [OLEnemyGroom_3] Special move started: SMT_AttackNormal
+[2088.19] Log: [OLEnemyGroom_3] Special move completed: SMT_AttackNormal
+[2088.91] Log: [OLHero_3] Special move started: SMT_HeroGrabbedNormal
+[2088.91] Log: [OLHero_3] Activating adjustment of [X=-27.236 Y=2.788 Z=0.000] with heading error -0.01 degs in 0.14 seconds
+[2088.91] Log: [OLEnemyGroom_3] Special move started: SMT_AttackGrab
+[2088.91] Log: [OLEnemyGroom_3] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error -6.30 degs in 0.04 seconds
+[2090.58] Log: [OLEnemyGroom_3] Special move completed: SMT_AttackGrab
+[2090.58] Log: [OLEnemyGroom_3] Special move started: SMT_KillHero
+[2090.58] Log: [OLHero_3] Special move completed: SMT_HeroGrabbedNormal
+[2090.58] Log: [OLHero_3] Special move started: SMT_HeroDecapitate
+[2108.93] Log: [OLHero_3] Special move completed: SMT_HeroDecapitate
+[2108.93] DevGameState: GS - OnPlayerDeath
+[2108.93] Log: [OLEnemyGroom_3] Contextual VO: EVOC_LostTarget - AI_BRK_GRM_stop_search
+[2108.99] Log: --- LOADING CHECKPOINT "Building2_TortureDone" ---
+[2108.99] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2109.01] Log: --- LOADING MOVIE START ---
+[2109.08] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2110.24] DevGameState: GS - Applying checkpoint Building2_TortureDone
+[2112.24] Log: KISMET: Remote event Unhide_GroomLocker activated for 1 recipients
+[2112.24] Log: KISMET: Remote event PutDoorsVisibilityOn activated for 1 recipients
+[2112.66] Log: --- LOADING MOVIE TIME: 3.65 sec ---
+[2154.91] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2154.91] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2156.00] Log:  ### --- Resetting level dlc_build2gym-01_art
+[2163.00] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_4
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2163.05] Log: OLEnemyGroom_4 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2163.05] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2171.36] Log: [OLHero_4] Special move started: SMT_Crouch
+[2172.53] Log: [OLHero_4] Special move completed: SMT_Crouch
+[2183.19] Log: [OLHero_4] Special move started: SMT_Uncrouch
+[2184.20] Log: [OLHero_4] Special move completed: SMT_Uncrouch
+[2184.26] Log: [OLEnemyGroom_4] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase02_Groom_01
+[2186.42] Log: [OLEnemyGroom_4] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_04
+[2194.16] Log:  ### --- Resetting level dlc_build2staircase-01_art
+[2194.34] Log:  ### --- Resetting level dlc_build2garden-01_art
+[2194.53] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2194.56] Log:  ### --- Resetting level dlc_prisontoshop-01_art
+[2200.25] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2200.80] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[2201.01] Log:  ### --- Resetting level dlc_build2skydome-01_art
+[2209.77] Log: [OLEnemyGroom_4] Special move started: SMT_AttackNormal
+[2210.60] Log: [OLEnemyGroom_4] Special move completed: SMT_AttackNormal
+[2211.35] Log: [OLEnemyGroom_4] Special move started: SMT_AttackNormal
+[2212.58] Log: [OLEnemyGroom_4] Special move completed: SMT_AttackNormal
+[2213.11] Log: Throw: Skipping Direction 0
+[2213.11] Log: Throw: Skipping Direction 1
+[2213.11] Log: Throw: Skipping Direction 2
+[2213.11] Log: Throw: Skipping Direction 3
+[2213.11] Log: Throw: Skipping Direction 4
+[2213.11] Log: Throw: Skipping Direction 5
+[2213.11] Log: Throw: Skipping Direction 6
+[2213.11] Log: Throw: Skipping Direction 7
+[2213.11] Log: All directions failed, trying more refined search
+[2213.11] Log: Throw: Skipping Direction 8
+[2213.11] Log: Throw: Skipping Direction 9
+[2213.11] Log: Throw: Skipping Direction 10
+[2213.11] Log: Throw: Skipping Direction 11
+[2213.11] Log: Throw: Skipping Direction 12
+[2213.11] Log: Throw: Skipping Direction 13
+[2213.11] Log: Throw: Skipping Direction 14
+[2213.11] Log: Throw: Skipping Direction 15
+[2213.25] Log: [OLEnemyGroom_4] Special move started: SMT_TurnOnSpot
+[2213.25] Log: Turn On Spot - Procedural Anim: Heading - 56.178589, Time - 0.324630
+[2213.67] Log: [OLEnemyGroom_4] Special move completed: SMT_TurnOnSpot
+[2213.67] Log: [OLEnemyGroom_4] Special move started: SMT_AttackNormal
+[2214.10] Log: [OLHero_4] Special move started: SMT_Dying
+[2214.74] Log: [OLEnemyGroom_4] Special move completed: SMT_AttackNormal
+[2221.61] Log: [OLHero_4] Special move completed: SMT_Dying
+[2221.61] DevGameState: GS - OnPlayerDeath
+[2221.61] Log: [OLEnemyGroom_4] Contextual VO: EVOC_LostTarget - VO_Build2_SEChase02_Groom_15
+[2221.69] Log: --- LOADING CHECKPOINT "Building2_TortureDone" ---
+[2221.69] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2221.71] Log: --- LOADING MOVIE START ---
+[2221.77] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2222.94] DevGameState: GS - Applying checkpoint Building2_TortureDone
+[2224.94] Log: KISMET: Remote event Unhide_GroomLocker activated for 1 recipients
+[2224.94] Log: KISMET: Remote event PutDoorsVisibilityOn activated for 1 recipients
+[2225.23] Log: --- LOADING MOVIE TIME: 3.52 sec ---
+[2263.36] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2263.36] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2264.23] Log:  ### --- Resetting level dlc_build2gym-01_art
+[2267.49] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_5
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2267.53] Log: OLEnemyGroom_5 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2267.53] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2268.57] Log: [OLEnemyGroom_5] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase02_Groom_01
+[2272.44] Log: [OLHero_5] Special move started: SMT_Crouch
+[2273.60] Log: [OLHero_5] Special move completed: SMT_Crouch
+[2292.29] Log: [OLEnemyGroom_5] Contextual VO: EVOC_LostTarget - VO_Build2_SEChase02_Groom_15
+[2293.03] Log: [OLHero_5] Special move started: SMT_Uncrouch
+[2294.07] Log: [OLHero_5] Special move completed: SMT_Uncrouch
+[2294.86] Log: [OLEnemyGroom_5] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase01_Groom_05
+[2295.42] Log: [OLEnemyGroom_5] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_14
+[2300.60] Log:  ### --- Resetting level dlc_build2staircase-01_art
+[2300.73] Log:  ### --- Resetting level dlc_build2garden-01_art
+[2300.87] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2300.91] Log:  ### --- Resetting level dlc_prisontoshop-01_art
+[2306.38] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2306.91] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[2307.12] Log:  ### --- Resetting level dlc_build2skydome-01_art
+[2312.09] Log: [OLHero_5] Special move started: SMT_OpenDoorPartial
+[2312.09] Log: [OLHero_5] Activating adjustment of [X=101.786 Y=82.552 Z=0.000] with heading error -43.04 degs in 0.66 seconds
+[2313.66] Log: [OLHero_5] Special move completed: SMT_OpenDoorPartial
+[2315.28] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2317.23] Log: [OLHero_5] Special move started: SMT_OpenDoorInstant
+[2317.23] Log: [OLHero_5] Activating adjustment of [X=-40.799 Y=24.300 Z=0.000] with heading error 14.45 degs in 0.24 seconds
+[2318.41] Log: [OLHero_5] Special move completed: SMT_OpenDoorInstant
+[2325.18] Log: [OLHero_5] Special move started: SMT_JumpOver
+[2325.18] Log: [OLHero_5] Activating adjustment of [X=-13.596 Y=1.371 Z=-13.150] with heading error 0.00 degs in 0.08 seconds
+[2325.96] Log: [OLHero_5] Special move completed: SMT_JumpOver
+[2328.17] Log: [OLEnemyGroom_5] Special move started: SMT_AIVault
+[2328.17] Log: [OLEnemyGroom_5] Activating adjustment of [X=1.828 Y=0.321 Z=-3.150] with heading error -6.00 degs in 0.04 seconds
+[2328.42] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[2328.49] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_7.OLUIFrontEnd_PauseMenu_7
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[2328.49] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_7.OLUIFrontEnd_PauseMenu_7
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[2328.51] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2328.51] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2339.53] Log: [OLEnemyGroom_5] Special move completed: SMT_AIVault
+[2340.53] Log:  ### --- Resetting level dlc_build2garden-02_art
+[2341.39] Log: [OLHero_5] Special move started: SMT_JumpOver
+[2341.39] Log: [OLHero_5] Activating adjustment of [X=-0.895 Y=45.752 Z=-17.111] with heading error 0.00 degs in 0.20 seconds
+[2342.29] Log: [OLHero_5] Special move completed: SMT_JumpOver
+[2342.30] Log:  ### --- Resetting level dlc_build2floor1-01_art
+[2342.42] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_20 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2342.42] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_20 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2342.58] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2343.18] Log: [OLHero_5] Special move started: SMT_BigLanding
+[2343.18] Log: [OLHero_5] Special move completed: SMT_BigLanding
+[2343.18] Log: [OLHero_5] Special move started: SMT_Dying
+[2343.40] Log: Warning (OLPushableObject_1) just tried to register itself with the navmesh, but it already was!  You must first unregister before re-registering an object
+[2343.66] Log: Warning (OLPushableObject_0) just tried to register itself with the navmesh, but it already was!  You must first unregister before re-registering an object
+[2343.75] Log:  ### --- Resetting level dlc_build2floor1-01_ld
+[2344.06] Log:  ### --- Resetting level dlc_build2floor1-01_se
+[2344.33] Log:  ### --- Resetting level dlc_build2floor1-01_snd
+[2350.70] Log: [OLHero_5] Special move completed: SMT_Dying
+[2350.70] DevGameState: GS - OnPlayerDeath
+[2350.77] Log: --- LOADING CHECKPOINT "Building2_TortureDone" ---
+[2350.77] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2350.79] Log: --- LOADING MOVIE START ---
+[2350.86] Log: Starting at checkpoint "Building2_TortureDone" - DLC: yes
+[2352.03] DevGameState: GS - Applying checkpoint Building2_TortureDone
+[2354.02] Log: KISMET: Remote event Unhide_GroomLocker activated for 1 recipients
+[2354.02] Log: KISMET: Remote event PutDoorsVisibilityOn activated for 1 recipients
+[2354.29] Log: --- LOADING MOVIE TIME: 3.50 sec ---
+[2367.14] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[2367.21] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_8.OLUIFrontEnd_PauseMenu_8
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[2367.21] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_8.OLUIFrontEnd_PauseMenu_8
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[2367.23] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2367.23] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2374.43] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2374.43] Log: *** ENTER : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_9 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2375.33] Log:  ### --- Resetting level dlc_build2gym-01_art
+[2379.53] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_6
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2379.58] Log: OLEnemyGroom_6 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2379.58] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2380.67] Log: [OLEnemyGroom_6] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase02_Groom_01
+[2383.01] Log: [OLHero_6] Special move started: SMT_Crouch
+[2384.15] Log: [OLHero_6] Special move completed: SMT_Crouch
+[2399.50] Log: [OLHero_6] Special move started: SMT_Uncrouch
+[2400.38] Log: [OLEnemyGroom_6] Special move started: SMT_Disturbed
+[2400.54] Log: [OLHero_6] Special move completed: SMT_Uncrouch
+[2404.34] Log: [OLEnemyGroom_6] Special move completed: SMT_Disturbed
+[2404.34] Log: [OLEnemyGroom_6] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_10
+[2409.15] Log:  ### --- Resetting level dlc_build2staircase-01_art
+[2409.32] Log:  ### --- Resetting level dlc_build2garden-01_art
+[2409.47] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2409.52] Log:  ### --- Resetting level dlc_prisontoshop-01_art
+[2411.15] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[2411.21] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_9.OLUIFrontEnd_PauseMenu_9
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[2411.21] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_9.OLUIFrontEnd_PauseMenu_9
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[2411.22] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2411.22] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2421.93] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[2426.96] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_build2floor2-03_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2427.49] Log:  ### --- Resetting level dlc_build2floor2-03_art
+[2427.71] Log:  ### --- Resetting level dlc_build2skydome-01_art
+[2432.85] Log: [OLHero_6] Special move started: SMT_OpenDoorPartial
+[2432.85] Log: [OLHero_6] Activating adjustment of [X=64.987 Y=74.463 Z=0.000] with heading error -31.44 degs in 0.49 seconds
+[2434.10] Log: [OLHero_6] Special move completed: SMT_OpenDoorPartial
+[2435.70] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2437.34] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[2437.34] Log: [OLHero_6] Activating adjustment of [X=-45.385 Y=41.288 Z=0.000] with heading error 27.70 degs in 0.31 seconds
+[2438.56] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[2444.93] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2444.93] Log: [OLHero_6] Activating adjustment of [X=20.650 Y=-0.729 Z=-13.150] with heading error -0.01 degs in 0.10 seconds
+[2445.88] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2448.00] Log: [OLEnemyGroom_6] Special move started: SMT_AIVault
+[2448.00] Log: [OLEnemyGroom_6] Activating adjustment of [X=6.488 Y=1.108 Z=-3.150] with heading error -6.38 degs in 0.04 seconds
+[2448.95] Log: [OLEnemyGroom_6] Special move completed: SMT_AIVault
+[2449.12] Log:  ### --- Resetting level dlc_build2garden-02_art
+[2449.64] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2449.64] Log: [OLHero_6] Activating adjustment of [X=-0.110 Y=-13.728 Z=-17.111] with heading error 0.00 degs in 0.09 seconds
+[2450.52] Log:  ### --- Resetting level dlc_build2floor1-01_art
+[2450.60] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2450.79] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2450.97] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_20 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2450.97] Log: *** EXIT : dlc_build2floor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_20 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2451.53] Log: [OLHero_6] Special move started: SMT_BigLanding
+[2451.75] Log:  ### --- Resetting level dlc_build2floor1-01_ld
+[2451.91] Log:  ### --- Resetting level dlc_build2floor1-01_se
+[2452.06] Log:  ### --- Resetting level dlc_build2floor1-01_snd
+[2453.36] Log: [OLHero_6] Special move completed: SMT_BigLanding
+[2453.36] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_51 -> DLC_AMB_Ext.AMB_Wind_Ext_Prison_Loops
+[2465.84] Log: [OLHero_6] Special move started: SMT_PickupObject
+[2465.84] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 1.64 degs in 0.03 seconds
+[2466.97] Log: [OLHero_6] Special move completed: SMT_PickupObject
+[2468.53] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[2468.62] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2468.62] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2468.63] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_10.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_10.OLUIFrontEnd_Credits_10
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[2495.31] Log: [OLHero_6] Special move started: SMT_OpenDoorPartial
+[2495.31] Log: [OLHero_6] Activating adjustment of [X=16.057 Y=-25.911 Z=0.000] with heading error 12.00 degs in 0.15 seconds
+[2496.55] Log: [OLHero_6] Special move completed: SMT_OpenDoorPartial
+[2496.89] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_53 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2496.89] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_53 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2500.70] Log:  ### --- Resetting level dlc_build2floor1-02_art
+[2501.06] Log:  ### --- Resetting level dlc_build2floor1-04_art
+[2501.29] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_51 -> DLC_AMB_Ext.AMB_Wind_Ext_Prison_Loops
+[2504.08] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_53 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2504.08] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_53 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2507.08] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_51 -> DLC_AMB_Ext.AMB_Wind_Ext_Prison_Loops_stop
+[2513.29] Log: [OLHero_6] Special move started: SMT_PickupObject
+[2513.29] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 0.66 degs in 0.01 seconds
+[2514.41] Log: [OLHero_6] Special move completed: SMT_PickupObject
+[2530.96] Log: --- SAVING CHECKPOINT "Building2_Floor1_1" ---
+[2530.98] Log: Successfully wrote 965 bytes
+[2542.80] Log: [OLHero_6] Special move started: SMT_TryOpenLockedDoor
+[2542.80] Log: [OLHero_6] Activating adjustment of [X=-14.524 Y=19.561 Z=0.000] with heading error 17.85 degs in 0.12 seconds
+[2544.97] Log: [OLHero_6] Special move completed: SMT_TryOpenLockedDoor
+[2544.98] Log:  ### --- Resetting level dlc_build2floor3-01_art
+[2555.68] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[2555.68] Log: [OLHero_6] Activating adjustment of [X=3.143 Y=-83.421 Z=0.000] with heading error -27.50 degs in 0.42 seconds
+[2556.87] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[2561.13] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2567.78] Log: [OLHero_6] Special move started: SMT_ClimbUpObstacle
+[2567.78] Log: [OLHero_6] Activating adjustment of [X=16.398 Y=8.508 Z=15.850] with heading error -0.02 degs in 0.10 seconds
+[2568.43] Log: [OLHero_6] Special move completed: SMT_ClimbUpObstacle
+[2582.58] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2582.58] Log: [OLHero_6] Activating adjustment of [X=-40.697 Y=-11.162 Z=0.850] with heading error 0.00 degs in 0.17 seconds
+[2583.43] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2646.89] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2647.10] Log: [OLHero_6] Special move started: SMT_RunThroughDoor
+[2647.10] Log: [OLHero_6] Activating adjustment of [X=3.522 Y=59.614 Z=1.850] with heading error -46.05 degs in 0.31 seconds
+[2648.04] Log: [OLHero_6] Special move completed: SMT_RunThroughDoor
+[2649.96] Log: [OLHero_6] Special move started: SMT_PickupObject
+[2649.96] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 6.31 degs in 0.11 seconds
+[2651.03] Log: [OLHero_6] Special move completed: SMT_PickupObject
+[2654.96] Log: [OLHero_6] Special move started: SMT_RunThroughDoor
+[2654.96] Log: [OLHero_6] Activating adjustment of [X=29.156 Y=-69.271 Z=1.850] with heading error -44.56 degs in 0.38 seconds
+[2655.11] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2655.83] Log: [OLHero_6] Special move completed: SMT_RunThroughDoor
+[2660.20] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2660.20] Log: [OLHero_6] Activating adjustment of [X=19.451 Y=3.599 Z=0.850] with heading error -0.01 degs in 0.08 seconds
+[2661.01] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2664.46] Log: [OLHero_6] Special move started: SMT_GrabLedgeFromGround
+[2664.46] Log: [OLHero_6] Activating adjustment of [X=-43.928 Y=-36.333 Z=0.000] with heading error -17.01 degs in 0.26 seconds
+[2665.79] Log: [OLHero_6] Special move completed: SMT_GrabLedgeFromGround
+[2665.84] Log: [OLHero_6] Special move started: SMT_ClimbUpLedge
+[2665.84] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=-0.023] with heading error 0.01 degs in 0.00 seconds
+[2666.75] Log: [OLHero_6] Special move completed: SMT_ClimbUpLedge
+[2666.75] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Walk
+[2671.74] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym
+[2672.21] Log: [OLHero_6] Special move started: SMT_PushFromLedgeAnimated
+[2672.21] Log: [OLHero_6] Activating adjustment of [X=2.716 Y=2.521 Z=0.000] with heading error -8.85 degs in 0.06 seconds
+[2672.90] Log: [OLHero_6] Special move completed: SMT_PushFromLedgeAnimated
+[2673.09] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2673.09] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2673.17] Log: KISMET: Remote event InGym activated for 1 recipients
+[2673.17] Log: KISMET: Remote event SND_MUS_GYM_intro activated for 1 recipients
+[2673.26] Log: --- SAVING CHECKPOINT "Building2_Floor1_2" ---
+[2673.28] Log: Successfully wrote 1009 bytes
+[2675.05] Log: [OLHero_6] Special move started: SMT_GrabLedgeFromGround
+[2675.05] Log: [OLHero_6] Activating adjustment of [X=-7.178 Y=-11.121 Z=0.000] with heading error 6.54 degs in 0.07 seconds
+[2676.09] Log: [OLHero_6] Special move completed: SMT_GrabLedgeFromGround
+[2676.94] Log: [OLHero_6] Special move started: SMT_DropFromLedge
+[2677.37] Log: [OLHero_6] Special move completed: SMT_DropFromLedge
+[2677.37] Log: [OLHero_6] Special move started: SMT_Crouch
+[2677.43] Log: [OLHero_6] Special move completed: SMT_Crouch
+[2677.43] Log: [OLHero_6] Special move started: SMT_Uncrouch
+[2677.86] Log: [OLHero_6] Special move completed: SMT_Uncrouch
+[2684.57] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[2684.66] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2684.66] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[2684.67] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_11.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_11.OLUIFrontEnd_Credits_11
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[2732.16] Log: [OLHero_6] Special move started: SMT_TryOpenLockedDoor
+[2732.16] Log: [OLHero_6] Activating adjustment of [X=-6.145 Y=48.256 Z=0.000] with heading error 18.50 degs in 0.24 seconds
+[2734.42] Log: [OLHero_6] Special move completed: SMT_TryOpenLockedDoor
+[2740.21] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2740.21] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2741.08] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym_stop
+[2742.61] Log: KISMET: Remote event GroomFloor1 activated for 1 recipients
+[2742.61] Log: KISMET: Remote event Sing activated for 1 recipients
+[2742.73] Log: --- SAVING CHECKPOINT "Building2_Floor1_3" ---
+[2742.74] Log: Successfully wrote 1037 bytes
+[2761.46] Log: [OLHero_6] Special move started: SMT_Crouch
+[2762.39] Log: [OLHero_6] Special move completed: SMT_Crouch
+[2762.39] Log: [OLHero_6] Special move started: SMT_OpenDoorPartial
+[2762.39] Log: [OLHero_6] Activating adjustment of [X=-90.018 Y=13.548 Z=0.000] with heading error -46.38 degs in 0.46 seconds
+[2763.60] Log: [OLHero_6] Special move completed: SMT_OpenDoorPartial
+[2770.50] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2770.50] Log: [OLHero_6] Activating adjustment of [X=-35.437 Y=-4.013 Z=-13.150] with heading error -0.02 degs in 0.15 seconds
+[2771.35] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2780.33] Log: Subtitle for event VO_Build2_GroomSong_full exceeded max lifetime (12.0 s)! Popping.
+[2806.24] Log: Subtitle for event VO_Build2_GroomSong_full exceeded max lifetime (10.8 s)! Popping.
+[2807.62] Log: [OLHero_6] Special move started: SMT_TryOpenLockedDoor
+[2807.62] Log: [OLHero_6] Activating adjustment of [X=-63.493 Y=10.371 Z=0.000] with heading error -49.50 degs in 0.33 seconds
+[2809.83] Log: [OLHero_6] Special move completed: SMT_TryOpenLockedDoor
+[2813.27] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2813.27] Log: [OLHero_6] Activating adjustment of [X=55.181 Y=0.063 Z=-13.150] with heading error 0.01 degs in 0.23 seconds
+[2814.13] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2815.44] Log: [OLHero_6] Special move started: SMT_OpenDoorPartial
+[2815.44] Log: [OLHero_6] Activating adjustment of [X=-136.035 Y=29.731 Z=0.000] with heading error -42.22 degs in 0.70 seconds
+[2817.12] Log: [OLHero_6] Special move completed: SMT_OpenDoorPartial
+[2833.98] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_7
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2833.99] Log: KISMET: Remote event Keydone activated for 1 recipients
+[2834.03] Log: OLEnemyGroom_7 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2834.03] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2834.08] Log: --- SAVING CHECKPOINT "Building2_Floor1_4" ---
+[2834.08] Log: Successfully wrote 1037 bytes
+[2835.24] Log: [OLEnemyGroom_7] Special move started: SMT_TurnOnSpot
+[2835.25] Log: Turn On Spot - Procedural Anim: Heading - 92.543343, Time - 0.842753
+[2835.75] Log: [OLHero_6] Special move started: SMT_PickupObject
+[2835.75] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 43.10 degs in 0.72 seconds
+[2836.27] Log: [OLEnemyGroom_7] Special move completed: SMT_TurnOnSpot
+[2836.27] ScriptWarning: Accessed None 'PatrolRoute'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_7
+	Function OLGame.OLBot:ChooseNextPatrolWaypoint:0048
+[2836.27] ScriptWarning: Accessed None 'PatrolRoute'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_7
+	Function OLGame.OLBot:ChooseNextPatrolWaypoint:010D
+[2836.80] Log: [OLHero_6] Special move completed: SMT_PickupObject
+[2839.68] Log: [OLEnemyGroom_7] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_14
+[2840.92] Log: [OLHero_6] Special move started: SMT_EnterSqueeze
+[2840.92] Log: [OLHero_6] Activating adjustment of [X=-23.951 Y=0.374 Z=0.000] with heading error 3.22 degs in 0.12 seconds
+[2842.08] Log: [OLHero_6] Special move completed: SMT_EnterSqueeze
+[2843.68] Log: [OLHero_6] Special move started: SMT_ExitSqueeze
+[2843.68] Log: [OLHero_6] Activating adjustment of [X=-4.583 Y=0.000 Z=0.000] with heading error 0.00 degs in 0.05 seconds
+[2844.82] Log: [OLHero_6] Special move completed: SMT_ExitSqueeze
+[2849.33] Log: [OLHero_6] Special move started: SMT_StartPushingObject
+[2849.33] Log: [OLHero_6] Activating adjustment of [X=0.677 Y=10.930 Z=0.000] with heading error -22.67 degs in 0.15 seconds
+[2850.05] Log: [OLHero_6] Special move completed: SMT_StartPushingObject
+[2850.14] Log: [OLHero_6] Special move started: SMT_StopPushingObject
+[2850.76] Log: [OLHero_6] Special move completed: SMT_StopPushingObject
+[2851.13] Log: [OLHero_6] Special move started: SMT_StartPushingObject
+[2851.13] Log: [OLHero_6] Activating adjustment of [X=7.605 Y=-4.809 Z=0.000] with heading error -14.99 degs in 0.10 seconds
+[2851.86] Log: [OLHero_6] Special move completed: SMT_StartPushingObject
+[2855.46] DevGameState: GS - Activating Building2_PushablePushed (apply now: 1)
+[2855.83] Log: [OLHero_6] Special move started: SMT_StopPushingObject
+[2856.45] Log: [OLHero_6] Special move completed: SMT_StopPushingObject
+[2857.29] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[2857.29] Log: [OLHero_6] Activating adjustment of [X=30.768 Y=9.551 Z=0.000] with heading error -51.03 degs in 0.34 seconds
+[2858.49] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[2858.85] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_8
+	Function OLGame.OLBot:Idle.BeginState:0029
+[2858.85] Log: OLEnemyGroom_8 PLAYAKEVENT with no AkEvent called from PlayLanded
+[2858.85] Log: Script call stack:
+	Function OLGame.OLPawn:Landed
+	Function Engine.Pawn:Landed
+	Function OLGame.OLEnemyGroom:PlayLanded
+	Function OLGame.OLEnemySoldier:PlayLanded
+
+[2860.04] Log: [OLEnemyGroom_8] Contextual VO: EVOC_PatrolToInvestigate - VO_Build2_SEChase01_Groom_05
+[2862.34] Log: [OLEnemyGroom_8] Contextual VO: EVOC_SwitchToChase - VO_Build2_SEChase02_Groom_10
+[2862.89] Log: [OLHero_6] Special move started: SMT_JumpOver
+[2862.89] Log: [OLHero_6] Activating adjustment of [X=66.116 Y=9.212 Z=-13.150] with heading error 0.00 degs in 0.27 seconds
+[2863.72] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[2863.72] Log: [OLEnemyGroom_8] Special move started: SMT_AttackNormal
+[2864.95] Log: [OLEnemyGroom_8] Special move completed: SMT_AttackNormal
+[2869.61] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym
+[2870.48] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2870.48] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2877.74] Log: [OLEnemyGroom_8] Special move started: SMT_AttackNormal
+[2878.83] Log: [OLEnemyGroom_8] Special move completed: SMT_AttackNormal
+[2883.07] Log: [OLHero_6] Special move started: SMT_GrabLedgeFromGround
+[2883.07] Log: [OLHero_6] Activating adjustment of [X=-39.268 Y=53.188 Z=0.000] with heading error -10.27 degs in 0.27 seconds
+[2884.21] Log: [OLHero_6] Special move completed: SMT_GrabLedgeFromGround
+[2884.21] Log: [OLHero_6] Special move started: SMT_ClimbUpLedge
+[2884.21] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=-0.023] with heading error -0.01 degs in 0.00 seconds
+[2884.80] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[2884.80] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[2885.12] Log: [OLHero_6] Special move completed: SMT_ClimbUpLedge
+[2885.12] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Walk
+[2888.31] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym_stop
+[2889.14] Log: [OLHero_6] Special move started: SMT_PushFromLedgeAnimated
+[2889.14] Log: [OLHero_6] Activating adjustment of [X=-0.606 Y=2.656 Z=0.000] with heading error -7.82 degs in 0.05 seconds
+[2889.83] Log: [OLHero_6] Special move completed: SMT_PushFromLedgeAnimated
+[2889.83] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Fall
+[2890.11] Log: KISMET: Remote event cp_5 activated for 1 recipients
+[2890.17] DevGameState: GS - Activating Building2_PushablePushed_Persist (apply now: 1)
+[2890.22] Log: --- SAVING CHECKPOINT "Building2_Floor1_5" ---
+[2890.22] Log: Successfully wrote 1078 bytes
+[2890.35] Log: [OLHero_6] Special move started: SMT_Uncrouch
+[2891.24] Log: [OLHero_6] Special move completed: SMT_Uncrouch
+[2899.00] Log: [OLHero_6] Special move started: SMT_ClimbUpObstacle
+[2899.00] Log: [OLHero_6] Activating adjustment of [X=1.628 Y=-0.140 Z=15.850] with heading error -0.02 degs in 0.06 seconds
+[2899.77] Log: [OLHero_6] Special move completed: SMT_ClimbUpObstacle
+[2907.11] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[2908.55] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym
+[2911.19] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym_stop
+[2916.66] Log: [OLHero_6] Special move started: SMT_CSA
+[2916.66] Log: [OLHero_6] Activating adjustment of [X=-8.751 Y=-65.203 Z=0.000] with heading error 9.12 degs in 0.33 seconds
+[2918.38] Log: [OLHero_6] Special move completed: SMT_CSA
+[2918.46] Log: KISMET: Remote event GoPendu activated for 2 recipients
+[2918.64] Log: --- SAVING CHECKPOINT "Building2_Floor1_5b" ---
+[2918.64] Log: Successfully wrote 1079 bytes
+[2918.92] Log: KISMET: Remote event HideGymDoors activated for 1 recipients
+[2930.12] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym
+[2930.58] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[2930.58] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[2972.93] Log: [OLHero_6] Special move started: SMT_EnterStruggle
+[2972.93] Log: [OLHero_6] Activating adjustment of [X=-0.001 Y=0.014 Z=1.555] with heading error 0.01 degs in 0.01 seconds
+[2972.93] Log: ### Detected stale camcorder transition! (CamcorderState: CCS_Lowering). Aborting!
+[2973.49] Log: [OLHero_6] Special move completed: SMT_EnterStruggle
+[2977.51] Log: [OLHero_6] Special move started: SMT_ExitStruggle
+[2977.66] Log: [OLHero_6] Special move completed: SMT_ExitStruggle
+[2977.73] Log: KISMET: Remote event blooddrop activated for 1 recipients
+[2984.61] Log: KISMET: Remote event UnHideGymDoors activated for 1 recipients
+[2984.61] Log: KISMET: Remote event Doorsunlocked activated for 1 recipients
+[2991.62] Log: Subtitle for event VO_Build2_Gym_Groom_10 exceeded max lifetime (5.8 s)! Popping.
+[3004.92] Log: KISMET: Remote event GroomIsDead activated for 2 recipients
+[3005.10] Log: --- SAVING CHECKPOINT "Building2_Floor1_6" ---
+[3005.10] Log: Successfully wrote 1078 bytes
+[3022.55] Log: [OLHero_6] Special move started: SMT_GrabLedgeFromGround
+[3022.55] Log: [OLHero_6] Activating adjustment of [X=-30.736 Y=13.207 Z=0.000] with heading error -4.22 degs in 0.14 seconds
+[3023.42] Log: [OLHero_6] Special move completed: SMT_GrabLedgeFromGround
+[3023.42] Log: [OLHero_6] Special move started: SMT_ClimbUpLedge
+[3023.42] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=-0.023] with heading error -0.02 degs in 0.00 seconds
+[3024.01] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> DLC_AMB_Build2.AMB_RT_building2_generic
+[3024.01] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_48 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor
+[3024.33] Log: [OLHero_6] Special move completed: SMT_ClimbUpLedge
+[3024.33] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Walk
+[3027.93] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_13 -> DLC_AMB_Build2.AMB_RT_Gym_stop
+[3028.79] Log: [OLHero_6] Special move started: SMT_PushFromLedgeAnimated
+[3028.79] Log: [OLHero_6] Activating adjustment of [X=-3.632 Y=2.102 Z=0.000] with heading error -7.32 degs in 0.05 seconds
+[3029.52] Log: [OLHero_6] Special move completed: SMT_PushFromLedgeAnimated
+[3037.21] Log: [OLHero_6] Special move started: SMT_JumpOver
+[3037.21] Log: [OLHero_6] Activating adjustment of [X=-57.931 Y=-15.436 Z=0.850] with heading error -0.01 degs in 0.24 seconds
+[3038.01] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[3043.60] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[3046.98] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3046.99] Log: [OLHero_6] Activating adjustment of [X=-57.062 Y=-37.416 Z=0.000] with heading error 1.92 degs in 0.34 seconds
+[3048.16] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3048.16] Log: *** ENTER : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_26 -> DLC_AMB_Build1.AMB_RT_building1_generic
+[3049.19] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> DLC_AMB_Build2.AMB_RT_building2_generic_stop
+[3049.19] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_47 -> Amb_FemaleWard.Amb_RdmFX_1st_Floor_Stop
+[3057.21] Log:  ### --- Resetting level dlc_build2tomale-01_art
+[3057.22] Log: Decal (DecalComponent dlc_malefloor2-01_art.TheWorld:PersistentLevel.DecalActor_71.DecalComponent_1) was missing a material and DefaultDecalMaterial was used!
+[3057.22] Log: Decal (DecalComponent dlc_malefloor2-01_art.TheWorld:PersistentLevel.DecalActor_31.DecalComponent_1) was missing a material and DefaultDecalMaterial was used!
+[3058.77] Log:  ### --- Resetting level dlc_malefloor2-01_art
+[3059.96] Log:  ### --- Resetting level dlc_maleskydome-01_art
+[3061.51] Log: *** EXIT : dlc_build2floor1-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_25 -> DLC_AMB_Build1.AMB_RT_building1_generic_Stop
+[3064.14] Log:  ### --- Resetting level dlc_malefakeoutside-01_art
+[3064.24] Log: *** ENTER : dlc_malefloor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_2 -> DLC_AMB_Build1.AMB_RT_building1_generic
+[3064.66] Log:  ### --- Resetting level dlc_malefloor2-01_snd
+[3064.95] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[3068.16] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3068.16] Log: [OLHero_6] Activating adjustment of [X=24.823 Y=17.788 Z=0.000] with heading error 8.40 degs in 0.15 seconds
+[3068.68] Log: KISMET: Remote event cpmale activated for 1 recipients
+[3068.83] Log: --- SAVING CHECKPOINT "MaleRevisit_Start" ---
+[3068.83] Log: Successfully wrote 1077 bytes
+[3069.38] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3069.89] Log: --- LOADING MOVIE START ---
+[3092.72] Log: *** EXIT ALL : DLC_Intro_Persistent.TheWorld:PersistentLevel.OLPlayerController_0.OLSoundEnvironmentManager_0 -> DLC_AMB_Build1.AMB_RT_building1_generic_Stop
+[3092.90] Log:  ### --- Resetting level dlc_adminblock_persistent
+[3092.92] Log:  ### --- Resetting level dlc_admexterior-01_art
+[3092.92] Log:  ### --- Resetting level dlc_admexterior-01_snd
+[3092.93] Log:  ### --- Resetting level dlc_admfloor1a-01_art
+[3092.93] Log:  ### --- Resetting level dlc_admfloor1a-02_art
+[3092.93] Log:  ### --- Resetting level dlc_admfloor1a-03_art
+[3092.94] Log:  ### --- Resetting level dlc_admfloor1b-01_art
+[3092.94] Log:  ### --- Resetting level dlc_admfloor1b-02_art
+[3092.96] Log:  ### --- Resetting level dlc_admfloor1b-03_art
+[3093.00] Log:  ### --- Resetting level dlc_admfloor1c-01_art
+[3093.13] Log:  ### --- Resetting level dlc_admfloor1c-02_art
+[3093.19] Log:  ### --- Resetting level dlc_admfloor1c-03_art
+[3093.19] Log:  ### --- Resetting level dlc_admfloor1-01_ld
+[3093.20] Log:  ### --- Resetting level dlc_admfloor1-01_se
+[3093.21] Log:  ### --- Resetting level dlc_admfloor2a-01_art
+[3093.21] Log:  ### --- Resetting level dlc_admfloor2a-02_art
+[3093.21] Log:  ### --- Resetting level dlc_admfloor2a-03_art
+[3093.22] Log:  ### --- Resetting level dlc_admfloor2b-01_art
+[3093.22] Log:  ### --- Resetting level dlc_admfloor2b-02_art
+[3093.22] Log:  ### --- Resetting level dlc_admfloor2b-03_art
+[3093.22] Log:  ### --- Resetting level dlc_admfloor2c-01_art
+[3093.23] Log:  ### --- Resetting level dlc_admfloor2c-02_art
+[3093.41] Log: Physics mode for (SkeletalMeshActor_6) is not compatible with TickGroup(0) adjusting
+[3093.41] Log: Physics mode for (SkeletalMeshActor_7) is not compatible with TickGroup(0) adjusting
+[3093.41] Log:  ### --- Resetting level dlc_admfloor2c-03_art
+[3093.43] Log:  ### --- Resetting level dlc_admelevator-01_art
+[3093.43] Log:  ### --- Resetting level dlc_admfloor2-01_ld
+[3093.44] Log:  ### --- Resetting level dlc_admfloors-01_snd
+[3093.44] Log:  ### --- Resetting level dlc_maletoadmin-01_art
+[3093.44] Log:  ### --- Resetting level dlc_maletoadminfakeext-01_art
+[3093.45] Log: Decal (DecalComponent dlc_malefloor2-01_art.TheWorld:PersistentLevel.DecalActor_71.DecalComponent_1) was missing a material and DefaultDecalMaterial was used!
+[3093.45] Log: Decal (DecalComponent dlc_malefloor2-01_art.TheWorld:PersistentLevel.DecalActor_31.DecalComponent_1) was missing a material and DefaultDecalMaterial was used!
+[3093.47] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[3093.61] Log:  ### --- Resetting level dlc_malefloor2-01_ld
+[3093.68] Log:  ### --- Resetting level dlc_malefloor2-01_se
+[3125.75] Log: Committed map change via OLEngine Transient.OLEngine_0
+[3126.72] Log: KISMET: Remote event StartChapelBurnMusic activated for 1 recipients
+[3127.02] Log: --- LOADING MOVIE TIME: 57.1 sec ---
+[3134.25] Log: Flushing async loaders.
+[3134.26] Log: Flushed async loaders.
+[3134.64] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3134.69] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_12.OLUIFrontEnd_PauseMenu_12
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[3134.69] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_12.OLUIFrontEnd_PauseMenu_12
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[3134.72] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3134.73] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3221.47] Log: !!!!!!!!!!!!!!!!!!!!!!!!!!   CPU skinned dlc_prisontoshop-01_art.TheWorld:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent_4 Cloth.Cloth 1 0 1 0
+[3226.17] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3226.27] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3226.27] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3226.27] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_13.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_13.OLUIFrontEnd_Credits_13
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[3238.98] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3239.06] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_14.OLUIFrontEnd_PauseMenu_14
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[3239.06] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_14.OLUIFrontEnd_PauseMenu_14
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[3239.07] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3239.07] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3246.14] Log: KISMET: Remote event RecordingTrager activated for 1 recipients
+[3256.93] Log: [OLHero_6] Special move started: SMT_OpenDoorPartial
+[3256.93] Log: [OLHero_6] Activating adjustment of [X=-8.572 Y=-52.701 Z=0.000] with heading error 8.79 degs in 0.27 seconds
+[3257.98] Log: [OLHero_6] Special move completed: SMT_OpenDoorPartial
+[3260.36] Log: [OLHero_6] Special move started: SMT_JumpOver
+[3260.36] Log: [OLHero_6] Activating adjustment of [X=0.688 Y=-11.052 Z=-11.486] with heading error 0.00 degs in 0.05 seconds
+[3261.25] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[3261.25] Log: TryAdjustCollisionSizeForLocomotionMode failed for mode LM_Walk
+[3263.57] Log: KISMET: Remote event Goflash activated for 1 recipients
+[3270.47] Log: [OLHero_6] Special move started: SMT_JumpOver
+[3270.47] Log: [OLHero_6] Activating adjustment of [X=-2.161 Y=68.698 Z=-11.486] with heading error 0.00 degs in 0.27 seconds
+[3271.29] Log: [OLHero_6] Special move completed: SMT_JumpOver
+[3283.70] Log: [OLHero_6] Special move started: SMT_PickupObject
+[3283.70] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error -2.26 degs in 0.04 seconds
+[3284.80] Log: [OLHero_6] Special move completed: SMT_PickupObject
+[3285.52] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3285.60] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3285.60] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3285.61] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_15.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_15.OLUIFrontEnd_Credits_15
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[3302.37] Log: [OLHero_6] Special move started: SMT_Crouch
+[3303.51] Log: [OLHero_6] Special move completed: SMT_Crouch
+[3306.30] Log: [OLHero_6] Special move started: SMT_Uncrouch
+[3307.32] Log: [OLHero_6] Special move completed: SMT_Uncrouch
+[3323.96] Log: [OLHero_6] Special move started: SMT_TryOpenLockedDoor
+[3323.96] Log: [OLHero_6] Activating adjustment of [X=-36.040 Y=36.655 Z=0.000] with heading error 42.33 degs in 0.28 seconds
+[3326.11] Log: [OLHero_6] Special move completed: SMT_TryOpenLockedDoor
+[3335.73] Log: [OLHero_6] Special move started: SMT_ClimbUpObstacle
+[3335.73] Log: [OLHero_6] Activating adjustment of [X=-17.149 Y=-7.460 Z=3.071] with heading error 0.00 degs in 0.08 seconds
+[3336.67] Log: [OLHero_6] Special move completed: SMT_ClimbUpObstacle
+[3340.73] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3340.73] Log: [OLHero_6] Activating adjustment of [X=-46.157 Y=-29.921 Z=0.000] with heading error 5.24 degs in 0.28 seconds
+[3341.90] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3343.40] Log: [OLHero_6] Special move started: SMT_TryOpenLockedDoor
+[3343.40] Log: [OLHero_6] Activating adjustment of [X=2.850 Y=-59.237 Z=0.000] with heading error 26.78 degs in 0.30 seconds
+[3345.62] Log: [OLHero_6] Special move completed: SMT_TryOpenLockedDoor
+[3346.92] Log: --- SAVING CHECKPOINT "AdminBlock_Start" ---
+[3346.92] Log: Successfully wrote 1148 bytes
+[3349.00] Log: *** ENTER : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_37 -> DLC_AMB_Attic.AMB_RT_building1_generic
+[3359.96] Log: *** EXIT : dlc_malefloor2-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_24 -> DLC_AMB_Build1.AMB_RT_building1_generic_Stop
+[3369.80] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3369.80] Log: [OLHero_6] Activating adjustment of [X=-49.033 Y=-8.046 Z=0.000] with heading error -4.16 degs in 0.25 seconds
+[3370.98] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3377.30] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3377.30] Log: [OLHero_6] Activating adjustment of [X=35.008 Y=108.402 Z=0.000] with heading error -51.52 degs in 0.57 seconds
+[3378.66] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3383.56] Log: [OLHero_6] Special move started: SMT_OpenDoorInstant
+[3383.56] Log: [OLHero_6] Activating adjustment of [X=7.300 Y=97.599 Z=0.000] with heading error -24.00 degs in 0.49 seconds
+[3384.74] Log: [OLHero_6] Special move completed: SMT_OpenDoorInstant
+[3398.23] Log:  ### --- Resetting level dlc_admexterior-05_art
+[3398.28] Log: *** EXIT : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_40 -> DLC_AMB_Attic.AMB_RT_building1_generic_Stop
+[3405.46] Log: *** ENTER : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_40 -> DLC_AMB_Attic.AMB_RT_building1_generic
+[3412.13] Log:  ### --- Resetting level dlc_admexterior-02_art
+[3412.81] Log:  ### --- Resetting level dlc_admexterior-03_art
+[3413.02] Log:  ### --- Resetting level dlc_admexterior-04_art
+[3413.44] Log:  ### --- Resetting level dlc_admexterior-06_art
+[3413.59] Log:  ### --- Resetting level dlc_adminskydome-01_art
+[3413.89] Log:  ### --- Resetting level dlc_admexterior-01_ld
+[3414.01] Log: Physics mode for (SkeletalMeshActor_6) is not compatible with TickGroup(0) adjusting
+[3414.06] Log:  ### --- Resetting level dlc_admexterior-01_se
+[3435.08] Log: *** ENTER : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_8 -> DLC_AMB_Attic.AMB_RT_building1_generic
+[3443.13] Log: FaceFX: WARNING Reference bone NPCMedium_Head could not be found in the skeleton '02_Blair.Blair'.
+[3452.12] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_9
+	Function OLGame.OLBot:Idle.BeginState:0029
+[3452.13] Log: KISMET: Remote event BlairDeathCineOn activated for 1 recipients
+[3452.13] Log: KISMET: Remote event PT_SE_BlaireDeath activated for 1 recipients
+[3473.85] Log: KISMET: Remote event Blaire_Die activated for 2 recipients
+[3474.92] Log: KISMET: Remote event SwarmBloodDecal activated for 1 recipients
+[3499.29] Log: KISMET: Remote event BlairDeathCineOff activated for 2 recipients
+[3502.52] Log: *** EXIT : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_24 -> DLC_AMB_Attic.AMB_RT_building1_generic_Stop
+[3547.90] Log: [OLHero_6] Special move started: SMT_CSA
+[3547.90] Log: [OLHero_6] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error -0.01 degs in 0.00 seconds
+[3548.04] Log: [OLHero_6] Special move completed: SMT_CSA
+[3548.20] Log: KISMET: Remote event ActivateBushWind activated for 1 recipients
+[3565.85] ScriptWarning: Accessed None 'EnemyPawn'
+	OLBot DLC_Intro_Persistent.TheWorld:PersistentLevel.OLBot_10
+	Function OLGame.OLBot:Idle.BeginState:0029
+[3567.37] Log: KISMET: Remote event ActivateBushWind activated for 1 recipients
+[3572.97] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3572.97] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3572.97] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3572.97] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.06] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.19] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.30] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.43] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.55] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.67] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.79] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3573.92] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.03] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.16] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.28] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.40] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.51] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.63] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.75] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.87] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3574.99] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.10] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.21] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.33] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.45] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.57] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.68] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.79] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3575.92] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.03] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.14] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.25] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.34] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.44] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.54] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.63] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.73] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.82] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3576.96] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.06] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.18] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.29] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.42] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.54] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.66] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.78] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3577.91] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.02] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.14] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.26] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.39] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.51] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.62] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.74] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.86] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3578.97] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.08] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.19] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.29] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.41] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.52] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.63] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.75] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3579.88] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.00] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.12] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.12] Log: ZELC: Component 'Mod_Exterior.Ext_SecurityBarrier-Open' with Owner 'No_Detailed_Info_Specified' returned normal with incorrect length (0.000000).  ChkActor: OLHero_6 (OLHero DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHero_6)
+[3580.24] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.35] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.48] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.48] Log: ZELC: Component 'Mod_Exterior.Ext_SecurityBarrier-Open' with Owner 'No_Detailed_Info_Specified' returned normal with incorrect length (0.000000).  ChkActor: OLHero_6 (OLHero DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHero_6)
+[3580.59] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.71] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.84] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3580.96] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.07] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.18] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.29] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.40] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.51] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.62] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.73] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.84] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.95] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3581.96] Log:  ### --- Resetting level dlc_epilogue
+[3582.06] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.17] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.28] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.39] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.50] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.61] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.72] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.83] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3582.94] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.05] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.16] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.26] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.37] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.48] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.58] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.70] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.82] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3583.92] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.02] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.13] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.23] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.33] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.44] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.55] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.65] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.75] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.85] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3584.95] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.06] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.16] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.26] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.35] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.45] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.55] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.65] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.74] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.84] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3585.94] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.03] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.13] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.22] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.32] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.42] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.51] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.61] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.70] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.80] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.90] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3586.99] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.09] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.18] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.28] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.37] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.47] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.57] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.66] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.76] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.85] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3587.95] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.04] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.14] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.23] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.33] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.43] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.52] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.62] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.71] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.82] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3588.93] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.02] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.11] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.21] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.30] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.40] Log: Matinee AI Group's Stage Mark is missing or valid actor isn't connected : Player_StageMark (SeqAct_Interp dlc_admexterior-01_se.TheWorld:PersistentLevel.Main_Sequence.SeqAct_Interp_0)
+[3589.50] Log: KISMET: Remote event PlayEpilogue activated for 1 recipients
+[3589.50] Log: *** ENTER : dlc_admfloors-01_snd.TheWorld:PersistentLevel.OLSoundEnvironmentVolume_22 -> DLC_AMB_Lab.AMB_RT_ComputerRoom_lp01
+[3641.43] Log: Waiting for player input started
+[3643.03] Log: Waiting for player input done
+[3646.44] Log: ## Achievement unlocked: Finished DLC
+[3646.80] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3646.90] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3646.90] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3656.05] Log: LoadMap: DLC_Intro_Persistent?Name=Player?Team=255
+[3656.05] Log: --- LOADING MOVIE START ---
+[3663.76] Log: Game class is 'OLGame'
+[3672.55] Log: Primary PhysX scene will be in software.
+[3672.55] Log: Creating Primary PhysX Scene.
+[3672.55] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[3672.55] Log: Bringing World DLC_Intro_Persistent.TheWorld up for play (0) at 2020.11.10-16.45.19
+[3672.55] Log: Bringing up level for play took: 8.792510
+[3672.66] Log: Playing DLC - invalid checkpoint but DLC persistent
+[3672.73] Log: ########### Finished loading level: 16.671111 seconds
+[3672.73] Log: Flushing async loaders.
+[3672.94] Log: Flushed async loaders.
+[3672.95] Log: ActivateLevel dlc_mainmenugame 1 1 1
+[3672.95] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[3672.97] Log: Flushing async loaders.
+[3673.42] Log: Flushed async loaders.
+[3673.42] Log:  ### --- Resetting level dlc_checkpoints
+[3673.42] Log:  ### --- Resetting level x_checkpoints
+[3673.42] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[3673.42] Log: COOKEDPHYSICS: BSP 0.00 KB
+[3673.44] Log:  ### --- Resetting level dlc_mainmenugame
+[3675.80] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3675.90] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3675.90] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3676.80] Log: --- LOADING MOVIE TIME: 20.7 sec ---
+[3681.31] DevGameState: Resetting GameState
+[3694.64] DevGameState: Resetting GameState
+[3694.64] Log: Starting at checkpoint "DLC_Start" - DLC: yes
+[3694.64] Log: --- LOADING MOVIE START ---
+[3694.69] Log: --- SAVING CHECKPOINT "DLC_Start" ---
+[3694.69] Log: Successfully wrote 104 bytes
+[3694.86] Log: Flushing async loaders.
+[3695.55] Log: Flushed async loaders.
+[3695.59] Log:  ### --- Resetting level dlc_lab_persistent
+[3695.59] Log:  ### --- Resetting level dlc_checkpoints
+[3695.63] Log: Committed map change via OLEngine Transient.OLEngine_0
+[3695.78] Log: Flushing async loaders.
+[3715.31] Log: Flushed async loaders.
+[3715.42] Log:  ### --- Resetting level dlc_lab-01_art
+[3715.43] Log: Particle system has warmup time of  200.00 seconds! Capping at 10 secs
+[3715.43] Log: Particle system has warmup time of  200.00 seconds! Capping at 10 secs
+[3715.43] Log: Particle system has warmup time of  200.00 seconds! Capping at 10 secs
+[3715.43] Log: Particle system has warmup time of  200.00 seconds! Capping at 10 secs
+[3715.70] Log:  ### --- Resetting level dlc_lab-02_art
+[3715.70] Log:  ### --- Resetting level dlc_lab-01_ld
+[3715.72] Log:  ### --- Resetting level dlc_lab-01_se
+[3715.72] Log:  ### --- Resetting level dlc_lab-01_snd
+[3716.75] DevGameState: GS - Applying checkpoint DLC_Start
+[3716.75] Log: New master gamestate list found.
+[3716.75] Log: New master checkpoint list found.
+[3722.26] Log: --- LOADING MOVIE TIME: 27.6 sec ---
+[3724.63] Warning: Skipping instancing group - an Actor may only be connected to one Group! [OLPlayerController_1]
+[3764.44] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3764.52] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_1.OLUIFrontEnd_18.OLUIFrontEnd_PauseMenu_18
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[3764.52] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_1.OLUIFrontEnd_18.OLUIFrontEnd_PauseMenu_18
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[3764.55] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3764.55] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3767.57] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3767.64] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_1.OLUIFrontEnd_19.OLUIFrontEnd_PauseMenu_19
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[3767.64] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_1.OLUIFrontEnd_19.OLUIFrontEnd_PauseMenu_19
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[3767.65] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3767.65] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3771.08] Log: --- SAVING CHECKPOINT "DLC_Start" ---
+[3771.08] Log: Successfully wrote 104 bytes
+[3771.14] DevGameState: Resetting GameState
+[3771.15] Log: LoadMap: DLC_Intro_Persistent?Name=Player?Team=255
+[3771.15] Log: --- LOADING MOVIE START ---
+[3771.51] Log: Game class is 'OLGame'
+[3771.64] Log: Primary PhysX scene will be in software.
+[3771.64] Log: Creating Primary PhysX Scene.
+[3771.64] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[3771.64] Log: Bringing World DLC_Intro_Persistent.TheWorld up for play (0) at 2020.11.10-16.46.58
+[3771.64] Log: Bringing up level for play took: 0.125017
+[3771.64] Log: Playing DLC - invalid checkpoint but DLC persistent
+[3771.66] Log: ########### Finished loading level: 0.501814 seconds
+[3771.66] Log: Flushing async loaders.
+[3771.67] Log: Flushed async loaders.
+[3771.67] Log: ActivateLevel dlc_mainmenugame 1 1 1
+[3771.67] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[3771.80] Log: Flushing async loaders.
+[3771.84] Log: Flushed async loaders.
+[3771.84] Log:  ### --- Resetting level dlc_checkpoints
+[3771.84] Log:  ### --- Resetting level x_checkpoints
+[3771.84] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[3771.84] Log: COOKEDPHYSICS: BSP 0.00 KB
+[3771.85] Log:  ### --- Resetting level dlc_mainmenugame
+[3773.00] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[3773.10] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3773.10] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[3773.94] Log: --- LOADING MOVIE TIME: 2.78 sec ---
+[3813.19] Log: Closing by request
+[3813.19] Log: appRequestExit(0)
+[3813.71] Exit: Preparing to exit.
+[3815.95] Exit: Game engine shut down
+[3827.60] Exit: Windows client shut down
+[3828.13] Exit: XAudio2 Device shut down.
+[3830.86] Exit: AK Audio shut down.
+[3847.05] Exit: Object subsystem successfully closed.
+[3847.25] Log: Shutting down FaceFX...
+[3847.25] Log: FaceFX shutdown.
+[3851.30] Exit: Exiting.
+[3851.35] Log: Log file closed, 11/10/20 16:48:18
